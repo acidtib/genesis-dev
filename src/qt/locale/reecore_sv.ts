@@ -62,12 +62,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina REEX adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina WEYC adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina REEX adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina WEYC adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina REEXs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina REEXs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
-        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA REEX&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA WEYC&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>Enter a REEX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Fyll i en REEX Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
+        <source>Enter a WEYC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Fyll i en WEYC Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
     </message>
     <message>
-        <source>The REEX address to encrypt</source>
-        <translation>REEX adressen som ska krypteras</translation>
+        <source>The WEYC address to encrypt</source>
+        <translation>WEYC adressen som ska krypteras</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this REEX address</source>
-        <translation>Kryptera den privata nyckeln för denna REEX adressen</translation>
+        <source>Encrypt the private key for this WEYC address</source>
+        <translation>Kryptera den privata nyckeln för denna WEYC adressen</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Kärna</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>Skicka mynt till en REEX adress</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>Skicka mynt till en WEYC adress</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>Om REEX Kärnan</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>Om WEYC Kärnan</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>Visa information om REEX Kärnan</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>Visa information om WEYC Kärnan</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>Ändra konfigurationsval för REEX</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>Ändra konfigurationsval för WEYC</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
-        <translation>Signera meddelanden med din REEX adress för att visa att du äger dem</translation>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
+        <translation>Signera meddelanden med din WEYC adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika REEX adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika WEYC adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Öppna Huvudnodens konfigurations fil </translation>
     </message>
     <message>
-        <source>Open a REEX: URI or payment request</source>
-        <translation>Öppna en REEX: URI eller betalningsförfrågan</translation>
+        <source>Open a WEYC: URI or payment request</source>
+        <translation>Öppna en WEYC: URI eller betalningsförfrågan</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
-        <source>Show the REEX Core help message to get a list with possible REEX command-line options</source>
-        <translation>Visa REEX Core hjälp meddelande för att få en lista med möjliga REEX kommandorad alternativ</translation>
+        <source>Show the WEYC Core help message to get a list with possible WEYC command-line options</source>
+        <translation>Visa WEYC Core hjälp meddelande för att få en lista med möjliga WEYC kommandorad alternativ</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>REEX kärn klient</translation>
+        <source>WEYC Core client</source>
+        <translation>WEYC kärn klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to REEX network</source>
-        <translation><numerusform>%n aktiv(a) annslutning(ar) till REEX nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till REEX nätverket</numerusform></translation>
+        <source>%n active connection(s) to WEYC network</source>
+        <translation><numerusform>%n aktiv(a) annslutning(ar) till WEYC nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till WEYC nätverket</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Redigera skickande adress</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid REEX address.</source>
-        <translation>Den inmatade adressen "%1" är ej en giltig REEX adress.</translation>
+        <source>The entered address "%1" is not a valid WEYC address.</source>
+        <translation>Den inmatade adressen "%1" är ej en giltig WEYC adress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>version</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Kärna</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Kärna</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About REEX Core</source>
-        <translation>Om REEX Kärna</translation>
+        <source>About WEYC Core</source>
+        <translation>Om WEYC Kärna</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to REEX Core.</source>
-        <translation>Välkommen till REEX Core.</translation>
+        <source>Welcome to WEYC Core.</source>
+        <translation>Välkommen till WEYC Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where REEX Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var REEX Core ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where WEYC Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var WEYC Core ska spara sin data.</translation>
     </message>
     <message>
-        <source>REEX Core will download and store a copy of the REEX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>REEX Kärnan kommer ladda ner och spara en kopia av REEX block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
+        <source>WEYC Core will download and store a copy of the WEYC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>WEYC Kärnan kommer ladda ner och spara en kopia av WEYC block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Mata in Adress att Skicka till</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other REEX addresses after it matures.
-To Add: enter percentage to give and REEX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other WEYC addresses after it matures.
+To Add: enter percentage to give and WEYC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra REEX adresser efter att belöningarna har mognat.
-För att Lägga till: Ange procent att ge och REEX adress för att lägga till i MultiSend vektorn.
+        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra WEYC adresser efter att belöningarna har mognat.
+För att Lägga till: Ange procent att ge och WEYC adress för att lägga till i MultiSend vektorn.
 För att Ta Bort: Ange adressen som ska tas bort och tryck ta bort.
 MultiSend kommer inte aktiveras om du inte tryckt på Aktivera</translation>
     </message>
@@ -1680,8 +1680,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Adress / Mängd:</translation>
     </message>
     <message>
-        <source>Add destinations to send REEX to</source>
-        <translation>Lägg till destination att skicka REEX till</translation>
+        <source>Add destinations to send WEYC to</source>
+        <translation>Lägg till destination att skicka WEYC till</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1779,48 +1779,48 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Var vänlig och välj en sekretess nivå.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 REEX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 WEYC</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 REEX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 WEYC</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Använd 16 separata huvudnoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 REEX to anonymize 10000 REEX</source>
-        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 REEX för att anonymisera 10000 REEX</translation>
+        <source>This option is the quickest and will cost about ~0.025 WEYC to anonymize 10000 WEYC</source>
+        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 WEYC för att anonymisera 10000 WEYC</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 REEX to anonymize 10000 REEX</source>
-        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 REEX för att anonymisera 10000 REEX</translation>
+        <source>This option is moderately fast and will cost about 0.05 WEYC to anonymize 10000 WEYC</source>
+        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 WEYC för att anonymisera 10000 WEYC</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Det här är det långsammaste och säkraste alternativet. Använda maximal anonymitet kommer kosta</translation>
     </message>
     <message>
-        <source>0.1 REEX per 10000 REEX you anonymize.</source>
-        <translation>0.1 REEX per 10000 REEX du anonymiserar.</translation>
+        <source>0.1 WEYC per 10000 WEYC you anonymize.</source>
+        <translation>0.1 WEYC per 10000 WEYC du anonymiserar.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Fördunkling Konfiguration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna REEX's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna WEYC's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna REEX's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna WEYC's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna REEX's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna WEYC's konfigurationsskärm.</translation>
     </message>
 </context>
 <context>
@@ -1877,8 +1877,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Om du avaktiverar spenderandet av okonfirmerad växel så kommer växeln från en transaktion &lt;br/&gt;ej kunna användas föräns transaktionen har minst en bekräftelse. &lt;br/&gt; Detta påverkar även hur ditt saldo beräknas.</translation>
     </message>
     <message>
-        <source>Automatically open the REEX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt REEX klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
+        <source>Automatically open the WEYC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt WEYC klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1893,12 +1893,12 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start REEX after logging in to the system.</source>
-        <translation>Starta REEX automatiskt efter inloggning på systemet.</translation>
+        <source>Automatically start WEYC after logging in to the system.</source>
+        <translation>Starta WEYC automatiskt efter inloggning på systemet.</translation>
     </message>
     <message>
-        <source>&amp;Start REEX on system login</source>
-        <translation>&amp;Starta REEX vid systeminloggning</translation>
+        <source>&amp;Start WEYC on system login</source>
+        <translation>&amp;Starta WEYC vid systeminloggning</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1921,8 +1921,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting REEX.</source>
-        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om REEX.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting WEYC.</source>
+        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om WEYC.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1935,24 +1935,24 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Kartlägg port med &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of REEX units to zREEX</source>
-        <translation>Tillåt automatisk prägling med REEX enheter till zREEX</translation>
+        <source>Enable automatic minting of WEYC units to zREEX</source>
+        <translation>Tillåt automatisk prägling med WEYC enheter till zREEX</translation>
     </message>
     <message>
         <source>Enable zREEX Automint</source>
         <translation>Tillåt zREEX Autoprägling</translation>
     </message>
     <message>
-        <source>Percentage of incoming REEX which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procent av inkommande REEX som automatiskt konverteras till zREEX via Zerocoin Protokollet (min: 10%)</translation>
+        <source>Percentage of incoming WEYC which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procent av inkommande WEYC som automatiskt konverteras till zREEX via Zerocoin Protokollet (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zREEX</source>
         <translation>Procent av autopräglade zREEX</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough REEX for this denomination is available</source>
-        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många REEX för denna valör är tillgängliga</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough WEYC for this denomination is available</source>
+        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många WEYC för denna valör är tillgängliga</translation>
     </message>
     <message>
         <source>Preferred Automint zREEX Denomination</source>
@@ -1963,8 +1963,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Staking delnings tröskel:</translation>
     </message>
     <message>
-        <source>Connect to the REEX network through a SOCKS5 proxy.</source>
-        <translation>Anslut till REEX nätverket via en SOCKS5 proxy.</translation>
+        <source>Connect to the WEYC network through a SOCKS5 proxy.</source>
+        <translation>Anslut till WEYC nätverket via en SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2106,8 +2106,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Totalt saldo, inkluderar alla otillgängliga mynt.</translation>
     </message>
     <message>
-        <source>REEX Balance</source>
-        <translation>REEX Saldo</translation>
+        <source>WEYC Balance</source>
+        <translation>WEYC Saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2130,8 +2130,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Nuvarande låst saldo endast i "watch only" adresser</translation>
     </message>
     <message>
-        <source>Your current REEX balance, unconfirmed and immature transactions included</source>
-        <translation>Ditt nuvarande REEX saldo, obekräftade och omogna transaktioner är inkluderade</translation>
+        <source>Your current WEYC balance, unconfirmed and immature transactions included</source>
+        <translation>Ditt nuvarande WEYC saldo, obekräftade och omogna transaktioner är inkluderade</translation>
     </message>
     <message>
         <source>zREEX Balance</source>
@@ -2150,8 +2150,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med REEX nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med WEYC nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2194,8 +2194,8 @@ Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad
         <translation>Spenderbar:</translation>
     </message>
     <message>
-        <source>Locked REEX or Masternode collaterals. These are excluded from zREEX minting.</source>
-        <translation>Låsta REEX eller masternode som säkerhet. Dessa är uteslutna från zREEX minting.</translation>
+        <source>Locked WEYC or Masternode collaterals. These are excluded from zREEX minting.</source>
+        <translation>Låsta WEYC eller masternode som säkerhet. Dessa är uteslutna från zREEX minting.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2267,8 +2267,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i r
         <translation>Kan ej starta reex: klicka-för-att-betala hanterare</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid REEX address or malformed URI parameters.</source>
-        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig REEX adress eller felproducerade URI parametrar.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid WEYC address or malformed URI parameters.</source>
+        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig WEYC adress eller felproducerade URI parametrar.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2353,8 +2353,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i r
         <translation>Zerocoin Handlingar:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med REEX nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med WEYC nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2377,8 +2377,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i r
         <translation>Tillgängligt att prägla:</translation>
     </message>
     <message>
-        <source>0.000 000 00 REEX</source>
-        <translation>0.000 000 00 REEX</translation>
+        <source>0.000 000 00 WEYC</source>
+        <translation>0.000 000 00 WEYC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2418,7 +2418,7 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i r
     </message>
     <message>
         <source>Enter an amount of Reex to convert to zREEX</source>
-        <translation>Mata in en mängd REEX att konvertera till zREEX</translation>
+        <translation>Mata in en mängd WEYC att konvertera till zREEX</translation>
     </message>
     <message>
         <source>zREEX Control</source>
@@ -2477,8 +2477,8 @@ zREEX är mogna när de har över 20 bekräftelser OCH över 2 präglingar av sa
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The REEX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>REEX adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
+        <source>The WEYC address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>WEYC adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2905,8 +2905,8 @@ Högsta tillåtna:</translation>
         <translation>Ingen 'Betala Till' adress inmatad, skapar lokal betalning</translation>
     </message>
     <message>
-        <source>Invalid REEX Address</source>
-        <translation>Ogiltig REEX Adress</translation>
+        <source>Invalid WEYC Address</source>
+        <translation>Ogiltig WEYC Adress</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2964,7 +2964,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of REEX to convert to zREEX</comment>
+        <comment>Enter an amount of WEYC to convert to zREEX</comment>
         <translation><numerusform>SekretessRuta</numerusform><numerusform>SekretessDialog</numerusform></translation>
     </message>
     <message>
@@ -3007,8 +3007,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mängd</translation>
     </message>
     <message>
-        <source>Enter a REEX address (e.g. %1)</source>
-        <translation>Mata in en REEX adress (e.g. %1)</translation>
+        <source>Enter a WEYC address (e.g. %1)</source>
+        <translation>Mata in en WEYC adress (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3137,8 +3137,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the REEX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna REEX felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
+        <source>Open the WEYC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna WEYC felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3341,8 +3341,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Ut:</translation>
     </message>
     <message>
-        <source>Welcome to the REEX RPC console.</source>
-        <translation>Välkommen till REEX RPC konsol.</translation>
+        <source>Welcome to the WEYC RPC console.</source>
+        <translation>Välkommen till WEYC RPC konsol.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3448,16 +3448,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>En valfri etikett att associera med den nya mottagaradressen.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the REEX network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över REEX nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the WEYC network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över WEYC nätverket.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ERHÅLLA</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the REEX network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över REEX nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the WEYC network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över WEYC nätverket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3677,8 +3677,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>UTXO Storlek:</translation>
     </message>
     <message>
-        <source>0 REEX</source>
-        <translation>0 REEX</translation>
+        <source>0 WEYC</source>
+        <translation>0 WEYC</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3737,8 +3737,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Om 1000 uREEXs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uREEXs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 uREEXs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for REEX transactions than the network can process.</source>
-        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av REEX transaktioner än nätverket kan bearbeta.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for WEYC transactions than the network can process.</source>
+        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av WEYC transaktioner än nätverket kan bearbeta.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3777,8 +3777,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka till flera mottagare på en gång</translation>
     </message>
     <message>
-        <source>Anonymized REEX</source>
-        <translation>Anonymiserade REEX</translation>
+        <source>Anonymized WEYC</source>
+        <translation>Anonymiserade WEYC</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3825,8 +3825,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Split block verktyget fungerar inte med flera adresser. Försök igen.</translation>
     </message>
     <message>
-        <source>Warning: Invalid REEX address</source>
-        <translation>Varning: Ogiltig REEX adress</translation>
+        <source>Warning: Invalid WEYC address</source>
+        <translation>Varning: Ogiltig WEYC adress</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3928,8 +3928,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The REEX address to send the payment to</source>
-        <translation>REEX adressen att skicka betalningen till</translation>
+        <source>The WEYC address to send the payment to</source>
+        <translation>WEYC adressen att skicka betalningen till</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3968,8 +3968,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Medelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the REEX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the REEX network.</source>
-        <translation>Ett medelande som var bifogat till REEX: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom REEX nätverket.</translation>
+        <source>A message that was attached to the WEYC: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the WEYC network.</source>
+        <translation>Ett medelande som var bifogat till WEYC: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom WEYC nätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3995,8 +3995,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>REEX Core is shutting down...</source>
-        <translation>REEX Core stängs ner...</translation>
+        <source>WEYC Core is shutting down...</source>
+        <translation>WEYC Core stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4018,8 +4018,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Du kan signera meddelanden med din egna adress för att bevisa att du äger dem. Se upp för att signera något vagt, då phishing-attacker kan försöka lura dig att signera din identitet åt dom. Signera endast fullt detaljerade påståenden du går med på.</translation>
     </message>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>REEX adressen för signera meddelandet med</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>WEYC adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4050,16 +4050,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna REEX adress</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna WEYC adress</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>REEX adressen meddelandet blev signerat med</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>WEYC adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika REEX adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika WEYC adressen.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4145,8 +4145,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4161,8 +4161,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The REEX Core developers</source>
-        <translation>REEX Core utvecklarna</translation>
+        <source>The WEYC Core developers</source>
+        <translation>WEYC Core utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4441,8 +4441,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mottaget via Fördunkling</translation>
     </message>
     <message>
-        <source>REEX Stake</source>
-        <translation>REEX staking</translation>
+        <source>WEYC Stake</source>
+        <translation>WEYC staking</translation>
     </message>
     <message>
         <source>zREEX Stake</source>
@@ -4465,24 +4465,24 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Obfuscation Skapa tecken</translation>
     </message>
     <message>
-        <source>Converted REEX to zREEX</source>
-        <translation>Konvertera REEX till zREEX</translation>
+        <source>Converted WEYC to zREEX</source>
+        <translation>Konvertera WEYC till zREEX</translation>
     </message>
     <message>
         <source>Spent zREEX</source>
         <translation>Spendera zREEX</translation>
     </message>
     <message>
-        <source>Received REEX from zREEX</source>
-        <translation>Mottog REEX från zREEX</translation>
+        <source>Received WEYC from zREEX</source>
+        <translation>Mottog WEYC från zREEX</translation>
     </message>
     <message>
         <source>Minted Change as zREEX from zREEX Spend</source>
         <translation>Myntad Växel som zREEX från zREEX Spendering</translation>
     </message>
     <message>
-        <source>Converted zREEX to REEX</source>
-        <translation>Konverterad zREEX till REEX</translation>
+        <source>Converted zREEX to WEYC</source>
+        <translation>Konverterad zREEX till WEYC</translation>
     </message>
     <message>
         <source>Anonymous (zREEX Transaction)</source>
@@ -4700,8 +4700,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exportering Lyckat</translation>
     </message>
     <message>
-        <source>Received REEX from zREEX</source>
-        <translation>Mottog REEX från zREEX</translation>
+        <source>Received WEYC from zREEX</source>
+        <translation>Mottog WEYC från zREEX</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zREEX</source>
@@ -4741,8 +4741,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka Mynt</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 REEX.</source>
-        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 REEX.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 WEYC.</source>
+        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 WEYC.</translation>
     </message>
 </context>
 <context>
@@ -4826,8 +4826,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. REEX Core is probably already running.</source>
-        <translation>Kan ej låsa in på data katalog %s. REEX Kärna körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. WEYC Core is probably already running.</source>
+        <translation>Kan ej låsa in på data katalog %s. WEYC Kärna körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4858,8 +4858,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Aktivera automatisk plånboksbackup efter varje zREEX minting (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for REEX inputs (0-1, default: %u)</source>
-        <translation>Aktivera eller avaktivera staking funktionalitet för REEX inmatningar (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for WEYC inputs (0-1, default: %u)</source>
+        <translation>Aktivera eller avaktivera staking funktionalitet för WEYC inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zREEX inputs (0-1, default: %u)</source>
@@ -4898,12 +4898,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exekvera kommando när den bästa block ändras (%s i cmd är utbytt mot block hash)</translation>
     </message>
     <message>
-        <source>Fees (in REEX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Avgifter (i REEX/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
+        <source>Fees (in WEYC/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Avgifter (i WEYC/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in REEX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Avgifter (i REEX/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
+        <source>Fees (in WEYC/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Avgifter (i WEYC/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5002,20 +5002,20 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Denna produkt inkluderar mjukvara utvecklad av OpenSSL Projektet för användning i OpenSSL Toolkit &lt;https://www.openssl.org/&gt; och kryptografisk mjukvara skriven av Eric Young och UPnP mjukvara skriven av Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. REEX Core is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. REEX Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. WEYC Core is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. WEYC Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Kan ej lokalisera tillräckligt Fördunklingsdenominationerade pengar för denna transaktion.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 REEX.</source>
-        <translation>Kan ej lokalisera tillräckligt Fördunkling icke-denominationerade pengar för denna transaktion som inte är 10000 REEX.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 WEYC.</source>
+        <translation>Kan ej lokalisera tillräckligt Fördunkling icke-denominationerade pengar för denna transaktion som inte är 10000 WEYC.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 REEX.</source>
-        <translation>Kan inte hitta tillräckligt med pengar för denna transaktion som inte är 10000 REEX.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 WEYC.</source>
+        <translation>Kan inte hitta tillräckligt med pengar för denna transaktion som inte är 10000 WEYC.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5030,8 +5030,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong REEX Core will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer REEX Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong WEYC Core will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer WEYC Core inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5182,8 +5182,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The REEX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The REEX Core Developers</translation>
+        <source>Copyright (C) 2015-%i The WEYC Core Developers</source>
+        <translation>Copyright (C) 2015-%i The WEYC Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5270,8 +5270,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of REEX Core</source>
-        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare REEX Kärna version</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of WEYC Core</source>
+        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare WEYC Kärna version</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5326,8 +5326,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Misslyckades läsa block</translation>
     </message>
     <message>
-        <source>Fee (in REEX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Avgift (i REEX/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
+        <source>Fee (in WEYC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Avgift (i WEYC/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5386,8 +5386,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. REEX Core is shutting down.</source>
-        <translation>Initierings renlighetscheck misslyckades. REEX Kärna stängs ner.</translation>
+        <source>Initialization sanity check failed. WEYC Core is shutting down.</source>
+        <translation>Initierings renlighetscheck misslyckades. WEYC Kärna stängs ner.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5458,8 +5458,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Procent automatiskt mintad Zerocoin (1-100, default: %u)</translation>
     </message>
     <message>
-        <source>Reindex the REEX and zREEX money supply statistics</source>
-        <translation>Indexera REEX och zREEX pengarna tillgång statistik på nytt</translation>
+        <source>Reindex the WEYC and zREEX money supply statistics</source>
+        <translation>Indexera WEYC och zREEX pengarna tillgång statistik på nytt</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5498,8 +5498,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 </translation>
     </message>
     <message>
-        <source>Disable all REEX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Avaktivera all REEX funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
+        <source>Disable all WEYC specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Avaktivera all WEYC funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -6210,8 +6210,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Plånboken är låst.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart REEX Core to complete</source>
-        <translation>Plånbok behöver skrivas om: starta om REEX Kärna för att göra klart</translation>
+        <source>Wallet needed to be rewritten: restart WEYC Core to complete</source>
+        <translation>Plånbok behöver skrivas om: starta om WEYC Kärna för att göra klart</translation>
     </message>
     <message>
         <source>Wallet options:</source>

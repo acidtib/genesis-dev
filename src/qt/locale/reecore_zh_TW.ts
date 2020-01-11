@@ -62,12 +62,12 @@
         <translation>接收的位址</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>這是你用來付款的 REEX 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>這是你用來付款的 WEYC 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>這是你用來接收款項的 REEX 位址, 建議你每次付款都使用新的位址.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>這是你用來接收款項的 WEYC 位址, 建議你每次付款都使用新的位址.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -164,16 +164,16 @@
         <translation>錢包確認加密</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 REEX 幣被可疑軟體或病毒偷走的風險.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 WEYC 幣被可疑軟體或病毒偷走的風險.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>確定要加密你的錢包?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
-        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(REEX)&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
+        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(WEYC)&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -557,12 +557,12 @@
         <translation>Tabs 工具列</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>送出錢幣到 REEX 地址</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>送出錢幣到 WEYC 地址</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
@@ -577,24 +577,24 @@
         <translation>瀏覽 Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>&amp;關於 REEX Core</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>&amp;關於 WEYC Core</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>顯示 REEX Core 相關資訊</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>顯示 WEYC Core 相關資訊</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>修改 REEX 設定</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>修改 WEYC 設定</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
-        <translation>使用你的 REEX 位址對訊息簽章, 來證明你是擁有者</translation>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
+        <translation>使用你的 WEYC 位址對訊息簽章, 來證明你是擁有者</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>驗證訊息簽章與 REEX 位址吻合</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>驗證訊息簽章與 WEYC 位址吻合</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -625,7 +625,7 @@
         <translation>打開Masternode設定檔</translation>
     </message>
     <message>
-        <source>Open a REEX: URI or payment request</source>
+        <source>Open a WEYC: URI or payment request</source>
         <translation>打開REEX: 位址或付款請求 </translation>
     </message>
     <message>
@@ -637,12 +637,12 @@
         <translation>區塊鏈瀏覽視窗</translation>
     </message>
     <message>
-        <source>Show the REEX Core help message to get a list with possible REEX command-line options</source>
-        <translation>顯示 REEX Core 幫助訊息以取得 REEX 命令列表選項</translation>
+        <source>Show the WEYC Core help message to get a list with possible WEYC command-line options</source>
+        <translation>顯示 WEYC Core 幫助訊息以取得 WEYC 命令列表選項</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>REEX Core 客戶端</translation>
+        <source>WEYC Core client</source>
+        <translation>WEYC Core 客戶端</translation>
     </message>
     </context>
 <context>
@@ -671,15 +671,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     </context>
 <context>
@@ -822,8 +822,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>對訊息簽名的 REEX 位址</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>對訊息簽名的 WEYC 位址</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -846,16 +846,16 @@
         <translation>拷貝目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>使用簽章來證明你是該  REEX 位址的擁有者,</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>使用簽章來證明你是該  WEYC 位址的擁有者,</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>此訊息之 REEX 位址已簽章於</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>此訊息之 WEYC 位址已簽章於</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>驗證訊息以確保該  REEX 位址已被簽章</translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>驗證訊息以確保該  WEYC 位址已被簽章</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -893,8 +893,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     </context>
 <context>

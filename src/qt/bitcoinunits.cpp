@@ -20,7 +20,7 @@ BitcoinUnits::BitcoinUnits(QObject* parent) : QAbstractListModel(parent),
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(REEX);
+    unitlist.append(WEYC);
     unitlist.append(mREEX);
     unitlist.append(uREEX);
     return unitlist;
@@ -29,7 +29,7 @@ QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 bool BitcoinUnits::valid(int unit)
 {
     switch (unit) {
-    case REEX:
+    case WEYC:
     case mREEX:
     case uREEX:
         return true;
@@ -41,7 +41,7 @@ bool BitcoinUnits::valid(int unit)
 QString BitcoinUnits::id(int unit)
 {
     switch (unit) {
-    case REEX:
+    case WEYC:
         return QString("reex");
     case mREEX:
         return QString("mreex");
@@ -56,8 +56,8 @@ QString BitcoinUnits::name(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case REEX:
-            return QString("REEX");
+        case WEYC:
+            return QString("WEYC");
         case mREEX:
             return QString("mREEX");
         case uREEX:
@@ -67,7 +67,7 @@ QString BitcoinUnits::name(int unit)
         }
     } else {
         switch (unit) {
-        case REEX:
+        case WEYC:
             return QString("tREEX");
         case mREEX:
             return QString("mtREEX");
@@ -83,18 +83,18 @@ QString BitcoinUnits::description(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case REEX:
-            return QString("REEX");
+        case WEYC:
+            return QString("WEYC");
         case mREEX:
-            return QString("Milli-REEX (1 / 1" THIN_SP_UTF8 "000)");
+            return QString("Milli-WEYC (1 / 1" THIN_SP_UTF8 "000)");
         case uREEX:
-            return QString("Micro-REEX (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            return QString("Micro-WEYC (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case REEX:
+        case WEYC:
             return QString("TestREEXs");
         case mREEX:
             return QString("Milli-TestREEX (1 / 1" THIN_SP_UTF8 "000)");
@@ -109,7 +109,7 @@ QString BitcoinUnits::description(int unit)
 qint64 BitcoinUnits::factor(int unit)
 {
     switch (unit) {
-    case REEX:
+    case WEYC:
         return 100000000;
     case mREEX:
         return 100000;
@@ -123,7 +123,7 @@ qint64 BitcoinUnits::factor(int unit)
 int BitcoinUnits::decimals(int unit)
 {
     switch (unit) {
-    case REEX:
+    case WEYC:
         return 8;
     case mREEX:
         return 5;

@@ -1,7 +1,7 @@
-# REEX
-![REEX Logo](https://reex.ccore.online/images/coins_custom/reex_45.png)<br>
+# WEYC
+![WEYC Logo](https://reex.ccore.online/images/coins_custom/reex_45.png)<br>
 
-What is ReeCore (REEX)?
+What is ReeCore (WEYC)?
 
 ReeCore is a peer-to-peer decentralized digital currency for ordinary people, easy to use and acquire. We’re pushing for blockchain mass adoption through education and charity. A sustainable and scalable solutions in the charity and educational sectors on the Blockchain. ReeCore summarizes the best characteristics of digital currencies, which were issued earlier (Bitcoin, Dash,PIVX), such as: increased security, fast consensus mechanism, and increased decentralization achieved by requiring miners to prove the knowledge of the transaction data. The community has created a coin with faster transaction, more secure, masternode and low transaction fee.
 
@@ -19,10 +19,10 @@ ReeCore is fork of Pivx, improved with some of the following features:
 - Low transaction fee
 
 Reecore’s Use-cases:
-- Help bloggers to get tip using REEX. 
+- Help bloggers to get tip using WEYC. 
 - Providing an online educational resources library for professional courses, writers and readers. 
-- Provide Charity organizations with option to be supported by using REEX.
-- Convert your REEX coin to ($) Dollar/ (£) Euro and use it REEX for coin listing and any node hosting
+- Provide Charity organizations with option to be supported by using WEYC.
+- Convert your WEYC coin to ($) Dollar/ (£) Euro and use it WEYC for coin listing and any node hosting
 
 
 The project is led by 12 members: (Telegram/Discord)
@@ -41,44 +41,44 @@ The project is led by 12 members: (Telegram/Discord)
 
 ReeCore Specifications:
 - Coin Name: Reecore
-- Ticker: REEX
+- Ticker: WEYC
 - Type: POS + Masternode
 - Block time 60 seconds
 - Block size 3 MB
-- Block Reward 10 REEX and will be reducing
+- Block Reward 10 WEYC and will be reducing
 - Algorithm Quark (pow period end)
 - Transaction confirmation: 16 blocks
 - Min Stake: 6 hours
 - Max Supply: 21 Million
 - Swap Supply: 1 Million
-- Premined amount: 240.000 REEX (0.11% approx)
-- Masternode Collateral: 15.000 REEX
+- Premined amount: 240.000 WEYC (0.11% approx)
+- Masternode Collateral: 15.000 WEYC
 - Reward: 90% masternode, 10% POS
 
 ReeCore Rewards:
 
 POS Rewards:
 ```
-	     1> block <= 50.000:   2 REEX
- 	50.000> block  <= 100.000: 3 REEX
-        100.000> block <= 150.000: 4 REEX
-	150.000> block <= 200.000: 5 REEX
-	200.000> block <= 250.000: 6 REEX
-	250.000> block <= 300.000: 7 REEX
-	300.000> block <= 350.000: 8 REEX
-	350.000> block <= 400.000: 9 REEX
-	400.000> block <= 450.000: 10 REEX
-	450.000> block <= 500.000: 11 REEX
-	500.000> block <= 550.000: 12 REEX
-	550.000> block <= 600.000: 11 REEX
-	600.000> block <= 650.000: 10 REEX
- 	650.000> block <= 700.000: 9 REEX
-	700.000> block <= 750.000: 8 REEX
-	750.000> block <= 800.000: 7 REEX
-	800.000> block <= 850.000: 6 REEX
-	850.000> block <= 900.000: 5 REEX
-	900.000> block <= 950.000: 4 REEX
-	950.000> block: 2 REEX
+	     1> block <= 50.000:   2 WEYC
+ 	50.000> block  <= 100.000: 3 WEYC
+        100.000> block <= 150.000: 4 WEYC
+	150.000> block <= 200.000: 5 WEYC
+	200.000> block <= 250.000: 6 WEYC
+	250.000> block <= 300.000: 7 WEYC
+	300.000> block <= 350.000: 8 WEYC
+	350.000> block <= 400.000: 9 WEYC
+	400.000> block <= 450.000: 10 WEYC
+	450.000> block <= 500.000: 11 WEYC
+	500.000> block <= 550.000: 12 WEYC
+	550.000> block <= 600.000: 11 WEYC
+	600.000> block <= 650.000: 10 WEYC
+ 	650.000> block <= 700.000: 9 WEYC
+	700.000> block <= 750.000: 8 WEYC
+	750.000> block <= 800.000: 7 WEYC
+	800.000> block <= 850.000: 6 WEYC
+	850.000> block <= 900.000: 5 WEYC
+	900.000> block <= 950.000: 4 WEYC
+	950.000> block: 2 WEYC
 ```
 
 Masternode Governance: 
@@ -120,7 +120,7 @@ strip reecored reecore-cli
 ./reecored -daemon
 ```
 
-# REEX important links
+# WEYC important links
 ```
 Website: https://reecore.org
 Whitepaper: https://reecore.org/wp-content/uploads/2019/11/Reecore_Whitepaper_1.2.0.0.pdf
@@ -133,6 +133,6 @@ Official Twitter: https://twitter.com/ReeCore_coin
 Facebook: https://www.facebook.com/ReeCoreCoin
 Discord: https://discord.gg/sze9AaV
 Masternode guide: https://github.com/reecore-coin/Reex-MN
-Masternode Monitoring/Statistics: 1. https://mnrank.com/coin/REEX/ 2. https://masternodes.biz/coindetail.php?c=REEX
+Masternode Monitoring/Statistics: 1. https://mnrank.com/coin/WEYC/ 2. https://masternodes.biz/coindetail.php?c=WEYC
 ReeCore Coin Tracker: https://www.coingecko.com/en/coins/reecore
 ```

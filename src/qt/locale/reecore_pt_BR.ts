@@ -62,12 +62,12 @@
         <translation>Endereços de recebimento</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Esses são seus endereços REEX para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Esses são seus endereços WEYC para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Esses são seus endereços REEX para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Esses são seus endereços WEYC para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirmar criptografia de carteira</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas REEXs de serem roubadas por malwares infectando seu computador.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas REEXs de serem roubadas por malwares infectando seu computador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Você tem certeza que deseja criptografar sua carteira?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
-        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS REEX&lt;b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
+        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS WEYC&lt;b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,7 +254,7 @@
         <translation>Endereço:</translation>
     </message>
     <message>
-        <source>Enter a REEX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a WEYC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation>Insira um endereço que você deseja criptografar usando a BIP 38. Insira a palavra-chave na caixa do meio. Pressione criptografar para computar a chave privada criptografada.</translation>
     </message>
     <message>
@@ -613,12 +613,12 @@
         <translation>Ferramentas de abas</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>Enviar moedas para um endereço REEX</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>Enviar moedas para um endereço WEYC</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
@@ -637,24 +637,24 @@
         <translation>Procurar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>&amp;Sobre o REEX Core</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>&amp;Sobre o WEYC Core</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>Mostra informação sobre o REEX Core</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>Mostra informação sobre o WEYC Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>Modificar opções de configuração para REEX</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>Modificar opções de configuração para WEYC</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
-        <translation>Assine mensagens com seus endereços REEX para provar que você os detém</translation>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
+        <translation>Assine mensagens com seus endereços WEYC para provar que você os detém</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços REEX especificados</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços WEYC especificados</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -685,8 +685,8 @@
         <translation>Abrir arquivo de configuração de Masternode</translation>
     </message>
     <message>
-        <source>Open a REEX: URI or payment request</source>
-        <translation>Abrir um REEX: URI ou requisição de pagamento</translation>
+        <source>Open a WEYC: URI or payment request</source>
+        <translation>Abrir um WEYC: URI ou requisição de pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -697,12 +697,12 @@
         <translation>Janela de exploração de blocos</translation>
     </message>
     <message>
-        <source>Show the REEX Core help message to get a list with possible REEX command-line options</source>
-        <translation>Mostra a ajuda da REEX Core para receber uma lista com possíveis opções de linha de comando REEX</translation>
+        <source>Show the WEYC Core help message to get a list with possible WEYC command-line options</source>
+        <translation>Mostra a ajuda da WEYC Core para receber uma lista com possíveis opções de linha de comando WEYC</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>Cliente Core REEX</translation>
+        <source>WEYC Core client</source>
+        <translation>Cliente Core WEYC</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1118,8 +1118,8 @@ MultiSend: %1</translation>
         <translation>Editar endereço remetente</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid REEX address.</source>
-        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de REEX</translation>
+        <source>The entered address "%1" is not a valid WEYC address.</source>
+        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de WEYC</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1164,16 +1164,16 @@ MultiSend: %1</translation>
         <translation>versão</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About REEX Core</source>
-        <translation>Sobre o REEX Core</translation>
+        <source>About WEYC Core</source>
+        <translation>Sobre o WEYC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1215,16 +1215,16 @@ MultiSend: %1</translation>
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to REEX Core.</source>
-        <translation>Bem-vindo ao REEX Core.</translation>
+        <source>Welcome to WEYC Core.</source>
+        <translation>Bem-vindo ao WEYC Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where REEX Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde REEX Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where WEYC Core will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde WEYC Core vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>REEX Core will download and store a copy of the REEX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>REEX Core vai baixar e armazenar uma cópia da blockchain REEX. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>WEYC Core will download and store a copy of the WEYC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>WEYC Core vai baixar e armazenar uma cópia da blockchain WEYC. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1235,8 +1235,8 @@ MultiSend: %1</translation>
         <translation>Usar um diretório personalizado de dados:</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1574,48 +1574,48 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Favor selecionar o nível de privacidade.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Use 2 masternodes separados para embaralhar fundos até 10000 REEX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Use 2 masternodes separados para embaralhar fundos até 10000 WEYC</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Use 8 masternodes separados para embaralhar fundos até 10000 REEX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Use 8 masternodes separados para embaralhar fundos até 10000 WEYC</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 masternodes separados</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 REEX to anonymize 10000 REEX</source>
-        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 REEX para anonimizar 10000 REEX</translation>
+        <source>This option is the quickest and will cost about ~0.025 WEYC to anonymize 10000 WEYC</source>
+        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 WEYC para anonimizar 10000 WEYC</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 REEX to anonymize 10000 REEX</source>
-        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 REEX para anonimizar 10000 REEX</translation>
+        <source>This option is moderately fast and will cost about 0.05 WEYC to anonymize 10000 WEYC</source>
+        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 WEYC para anonimizar 10000 WEYC</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta é a opção mais lenta e mais segura. Usando a anonimização máxima vai custar</translation>
     </message>
     <message>
-        <source>0.1 REEX per 10000 REEX you anonymize.</source>
-        <translation>0.1 REEX por 10000 REEX que deixar anônima.</translation>
+        <source>0.1 WEYC per 10000 WEYC you anonymize.</source>
+        <translation>0.1 WEYC por 10000 WEYC que deixar anônima.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Configuração de ofuscação</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para o básico (%1 e 2 rodadas) Você pode mudar isto a qualquer tempo ao abrir a configuração de tela REEX's.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para o básico (%1 e 2 rodadas) Você pode mudar isto a qualquer tempo ao abrir a configuração de tela WEYC's.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para alto (%1 e 8 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela REEX's.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para alto (%1 e 8 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela WEYC's.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para máxima (%1 e 16 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela REEX's.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para máxima (%1 e 16 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela WEYC's.</translation>
     </message>
 </context>
 <context>
@@ -1668,8 +1668,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>C&amp;arteira</translation>
     </message>
     <message>
-        <source>Automatically open the REEX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automaticamente a porta do cliente REEX no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
+        <source>Automatically open the WEYC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automaticamente a porta do cliente WEYC no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1688,12 +1688,12 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start REEX after logging in to the system.</source>
-        <translation>Iniciar automaticamente REEX depois de logar no sistema.</translation>
+        <source>Automatically start WEYC after logging in to the system.</source>
+        <translation>Iniciar automaticamente WEYC depois de logar no sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start REEX on system login</source>
-        <translation>&amp;Iniciar REEX ao logar no sistema</translation>
+        <source>&amp;Start WEYC on system login</source>
+        <translation>&amp;Iniciar WEYC ao logar no sistema</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1708,8 +1708,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>&amp;Rede</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting REEX.</source>
-        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do REEX.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting WEYC.</source>
+        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do WEYC.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1718,8 +1718,8 @@ https://www.transifex.com/reex-project/reex-project-translations</source>
 https://www.transifex.com/reex-project/reex-project-translations</translation>
     </message>
     <message>
-        <source>Connect to the REEX network through a SOCKS5 proxy.</source>
-        <translation>Conectar à rede REEX através de um proxy SOCKS5</translation>
+        <source>Connect to the WEYC network through a SOCKS5 proxy.</source>
+        <translation>Conectar à rede WEYC através de um proxy SOCKS5</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1853,8 +1853,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Imaturo:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede REEX após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede WEYC após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1950,8 +1950,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Ações Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede REEX após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede WEYC após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
     </message>
     <message>
         <source>0</source>
@@ -1962,8 +1962,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>zREEX</translation>
     </message>
     <message>
-        <source>0.000 000 00 REEX</source>
-        <translation>0.000 000 00 REEX</translation>
+        <source>0.000 000 00 WEYC</source>
+        <translation>0.000 000 00 WEYC</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1998,8 +1998,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Pagar &amp;Para:</translation>
     </message>
     <message>
-        <source>The REEX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>O endereço REEX para enviar o pagamento. Cria um pagamento local para si mesmo quando vazio.</translation>
+        <source>The WEYC address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>O endereço WEYC para enviar o pagamento. Cria um pagamento local para si mesmo quando vazio.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2173,8 +2173,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Quantidade</translation>
     </message>
     <message>
-        <source>Enter a REEX address (e.g. %1)</source>
-        <translation>Insira um endereço REEX (e.g. %1)</translation>
+        <source>Enter a WEYC address (e.g. %1)</source>
+        <translation>Insira um endereço WEYC (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2431,8 +2431,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>saída:</translation>
     </message>
     <message>
-        <source>Welcome to the REEX RPC console.</source>
-        <translation>Bem-vindo ao console da REEX RPC</translation>
+        <source>Welcome to the WEYC RPC console.</source>
+        <translation>Bem-vindo ao console da WEYC RPC</translation>
     </message>
     <message>
         <source>Do you want to continue?.&lt;br /&gt;</source>
@@ -2687,8 +2687,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Tamanho UTXO:</translation>
     </message>
     <message>
-        <source>0 REEX</source>
-        <translation>0 REEX</translation>
+        <source>0 WEYC</source>
+        <translation>0 WEYC</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2735,8 +2735,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Se a taxa padrão estiver definida para 1000 uREEXs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uREEXs em taxa,&lt;br /&gt; pagará pelo menos 1000 uREEXs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for REEX transactions than the network can process.</source>
-        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de REEX do que a rede pode processar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for WEYC transactions than the network can process.</source>
+        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de WEYC do que a rede pode processar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2783,8 +2783,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Adicionar &amp;Recipiente</translation>
     </message>
     <message>
-        <source>Anonymized REEX</source>
-        <translation>REEX anonimizadas</translation>
+        <source>Anonymized WEYC</source>
+        <translation>WEYC anonimizadas</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -2819,8 +2819,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Copiar troco</translation>
     </message>
     <message>
-        <source>Warning: Invalid REEX address</source>
-        <translation>Aviso: endereço REEX inválido</translation>
+        <source>Warning: Invalid WEYC address</source>
+        <translation>Aviso: endereço WEYC inválido</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2906,8 +2906,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Pagar &amp;Para:</translation>
     </message>
     <message>
-        <source>The REEX address to send the payment to</source>
-        <translation>O endereço REEX para enviar o pagamento</translation>
+        <source>The WEYC address to send the payment to</source>
+        <translation>O endereço WEYC para enviar o pagamento</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2969,8 +2969,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>REEX Core is shutting down...</source>
-        <translation>REEX Core está desligando...</translation>
+        <source>WEYC Core is shutting down...</source>
+        <translation>WEYC Core está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2988,8 +2988,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>&amp;Assinar mensagem</translation>
     </message>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>O endereço REEX para assinar a mensagem</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>O endereço WEYC para assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3020,16 +3020,16 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Copia a assinatura atual do sistema de transferência</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Assine a mensagem para provar que você possui este endereço REEX</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Assine a mensagem para provar que você possui este endereço WEYC</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>O endereço REEX que assinou a mensagem</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>O endereço WEYC que assinou a mensagem</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço REEX especificado.</translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço WEYC especificado.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3111,8 +3111,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3127,8 +3127,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The REEX Core developers</source>
-        <translation>Os desenvolvedores do REEX Core</translation>
+        <source>The WEYC Core developers</source>
+        <translation>Os desenvolvedores do WEYC Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3672,12 +3672,12 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Executar o comando quando uma transação da carteira mudar (%s no cmd será substituído pela TxID)</translation>
     </message>
     <message>
-        <source>Fees (in REEX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Taxas (em REEX/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
+        <source>Fees (in WEYC/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Taxas (em WEYC/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
     </message>
     <message>
-        <source>Fees (in REEX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Taxas (em REEX/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
+        <source>Fees (in WEYC/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Taxas (em WEYC/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
     </message>
     <message>
         <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
@@ -3696,8 +3696,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Define o tamanho máximo de transações de alta prioridade/taxa baixa em bytes (padrão: %d)</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 REEX.</source>
-        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 REEX.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 WEYC.</source>
+        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 WEYC.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -3712,8 +3712,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong REEX Core will not work properly.</source>
-        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core REEX não vai funcionar corretamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong WEYC Core will not work properly.</source>
+        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core WEYC não vai funcionar corretamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3792,8 +3792,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The REEX Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do REEX Core</translation>
+        <source>Copyright (C) 2015-%i The WEYC Core Developers</source>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do WEYC Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3852,8 +3852,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of REEX Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da REEX Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of WEYC Core</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da WEYC Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3896,8 +3896,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Falhou em ler o bloco</translation>
     </message>
     <message>
-        <source>Fee (in REEX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Taxa (em REEX/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
+        <source>Fee (in WEYC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Taxa (em WEYC/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4342,8 +4342,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Carteira está travada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart REEX Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o REEX Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart WEYC Core to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o WEYC Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

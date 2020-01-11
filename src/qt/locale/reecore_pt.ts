@@ -62,12 +62,12 @@
         <translation>Endereços de recebimento</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Esses são seus endereços REEX para onde enviar pagamentos. Confira sempre o montante e os endereços de destino antes de enviar moedas.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Esses são seus endereços WEYC para onde enviar pagamentos. Confira sempre o montante e os endereços de destino antes de enviar moedas.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Esses são seus endereços REEX onde receber pagamentos. Recomenda-se o uso de um novo endereço para cada transacção.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Esses são seus endereços WEYC onde receber pagamentos. Recomenda-se o uso de um novo endereço para cada transacção.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Confirmar encriptação da carteira</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX encerrará para terminar o processo de encriptação. Lembre-se que encriptar sua carteira não protege completamente suas REEXs contra roubo por malware infectando seu computador.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC encerrará para terminar o processo de encriptação. Lembre-se que encriptar sua carteira não protege completamente suas REEXs contra roubo por malware infectando seu computador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Tem certeza que deseja encriptar sua carteira?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
-        <translation>Atenção: Se você encriptar sua carteira e perder a senha, você &lt;B&gt;PERDERÁ TODA SUA REEX&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
+        <translation>Atenção: Se você encriptar sua carteira e perder a senha, você &lt;B&gt;PERDERÁ TODA SUA WEYC&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -666,8 +666,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>Um endereço REEX para assinar a mensagem</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>Um endereço WEYC para assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -698,12 +698,12 @@
         <translation>Copiar a assinatura para a area de trabalho</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Assinar a Mensagem para provar que você e dono desse endereço REEX.</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Assinar a Mensagem para provar que você e dono desse endereço WEYC.</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>O endereço REEX que foi assinado com</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>O endereço WEYC que foi assinado com</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1250,8 +1250,8 @@
         <translation>Carteira esta bloqueada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart REEX Core to complete</source>
-        <translation>Carteira precisa ser reescrita: reinicie o REEX Core para completar.</translation>
+        <source>Wallet needed to be rewritten: restart WEYC Core to complete</source>
+        <translation>Carteira precisa ser reescrita: reinicie o WEYC Core para completar.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

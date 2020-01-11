@@ -3151,7 +3151,7 @@ bool CheckBlock(const CBlock& block, CValidationState& state, bool fCheckPOW, bo
                 nHeight = (*mi).second->nHeight + 1;
         }
 
-        // REEX
+        // WEYC
         // It is entierly possible that we don't have enough data and this could fail
         // (i.e. the block could indeed be valid). Store the block for later consideration
         // but issue an initial reject message.
@@ -4635,7 +4635,7 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv, 
             return false;
         }
 
-        // REEX: We use certain sporks during IBD, so check to see if they are
+        // WEYC: We use certain sporks during IBD, so check to see if they are
         // available. If not, ask the first peer connected for them.
         bool fMissingSporks = !pSporkDB->SporkExists(SPORK_14_PROTOCOL_ENFORCEMENT_1)
                            && !pSporkDB->SporkExists(SPORK_15_PROTOCOL_ENFORCEMENT_2)

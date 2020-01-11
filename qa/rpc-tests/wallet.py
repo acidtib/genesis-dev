@@ -9,7 +9,7 @@
 #   a) creates 3 nodes, with an empty chain (no blocks).
 #   b) node0 mines a block
 #   c) node1 mines 32 blocks, so now node 0 has 500000REEX, node 1 has 4250REEX, node2 has none.
-#   d) node0 sends 601 REEX to node2, in two transactions (301 REEX, then 300 REEX).
+#   d) node0 sends 601 WEYC to node2, in two transactions (301 WEYC, then 300 WEYC).
 #   e) node0 mines a block, collects the fee on the second transaction
 #   f) node1 mines 16 blocks, to mature node0's just-mined block
 #   g) check that node0 has 100-21, node2 has 21

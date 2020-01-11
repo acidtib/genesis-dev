@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi REEX per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi WEYC per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi REEX per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi WEYC per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi REEX dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi WEYC dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Confermi di voler crittografare il portafoglio?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
-        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI REEX&lt;7b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
+        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI WEYC&lt;7b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>Enter a REEX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Inserire un indirizzo REEX da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
+        <source>Enter a WEYC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Inserire un indirizzo WEYC da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
     </message>
     <message>
-        <source>The REEX address to encrypt</source>
-        <translation>Indirizzo REEX da crittografare</translation>
+        <source>The WEYC address to encrypt</source>
+        <translation>Indirizzo WEYC da crittografare</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this REEX address</source>
-        <translation>Crittografa la chiave privata per questo indirizzo REEX</translation>
+        <source>Encrypt the private key for this WEYC address</source>
+        <translation>Crittografa la chiave privata per questo indirizzo WEYC</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>Invia valuta all'indirizzo REEX</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>Invia valuta all'indirizzo WEYC</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>&amp;Informazioni REEX Core</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>&amp;Informazioni WEYC Core</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>Visualizza informazioni su REEX Core</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>Visualizza informazioni su WEYC Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>Modifica le opzioni di configurazione per REEX</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>Modifica le opzioni di configurazione per WEYC</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi REEX per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi WEYC per dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi REEX specifici</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi WEYC specifici</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Apri file di configurazione del Masternodo</translation>
     </message>
     <message>
-        <source>Open a REEX: URI or payment request</source>
-        <translation>Apri un REEX: URI o richiesta di pagamento</translation>
+        <source>Open a WEYC: URI or payment request</source>
+        <translation>Apri un WEYC: URI o richiesta di pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,15 +729,15 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the REEX Core help message to get a list with possible REEX command-line options</source>
-        <translation>Mostra il messaggio di aiuto REEX Core per ottenere un elenco con le possibili opzioni di riga di comando REEX</translation>
+        <source>Show the WEYC Core help message to get a list with possible WEYC command-line options</source>
+        <translation>Mostra il messaggio di aiuto WEYC Core per ottenere un elenco con le possibili opzioni di riga di comando WEYC</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core client</source>
+        <translation>WEYC Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to REEX network</source>
+        <source>%n active connection(s) to WEYC network</source>
         <translation><numerusform>%n connessione attiva alla rete REEXIX</numerusform><numerusform>%n connessioni attive alla rete REEXIX</numerusform></translation>
     </message>
     <message>
@@ -1173,8 +1173,8 @@ MultiSend: %1</translation>
         <translation>Modifica indirizzo di invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid REEX address.</source>
-        <translation>L'indirizzo inserito "%1" non è un indirizzo REEX valido.</translation>
+        <source>The entered address "%1" is not a valid WEYC address.</source>
+        <translation>L'indirizzo inserito "%1" non è un indirizzo WEYC valido.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1219,16 +1219,16 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About REEX Core</source>
-        <translation>Informazioni su REEX Core</translation>
+        <source>About WEYC Core</source>
+        <translation>Informazioni su WEYC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to REEX Core.</source>
+        <source>Welcome to WEYC Core.</source>
         <translation>Benvenuto in REEXIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where REEX Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove REEX Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where WEYC Core will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove WEYC Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>REEX Core will download and store a copy of the REEX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>REEX Core scaricherà e salverà una copia della blockchain REEX. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>WEYC Core will download and store a copy of the WEYC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>WEYC Core scaricherà e salverà una copia della blockchain WEYC. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ MultiSend: %1</translation>
         <translation>Utilizza una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1436,12 +1436,12 @@ MultiSend: %1</translation>
         <translation>Inserire indirizzo destinatario</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other REEX addresses after it matures.
-To Add: enter percentage to give and REEX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other WEYC addresses after it matures.
+To Add: enter percentage to give and WEYC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi REEX fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
-Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo REEX da aggiungere al vettore MultiSend.
+        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi WEYC fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
+Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo WEYC da aggiungere al vettore MultiSend.
 Per Eliminare: Inserisci l'indirizzo da eliminare e premi elimina.
 MultiSend non verrà attivato a meno che tu non prema su Attiva</translation>
     </message>
@@ -1671,12 +1671,12 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Configura Offuscamento</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 REEX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 WEYC</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Usa 8 masternodi diversi per mixare fino a 10000 REEX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Usa 8 masternodi diversi per mixare fino a 10000 WEYC</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
@@ -1713,16 +1713,16 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Mappa la porta utilizzando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of REEX units to zREEX</source>
-        <translation>Attiva il conio automatico di unità REEX in zREEX</translation>
+        <source>Enable automatic minting of WEYC units to zREEX</source>
+        <translation>Attiva il conio automatico di unità WEYC in zREEX</translation>
     </message>
     <message>
         <source>Enable zREEX Automint</source>
         <translation>Attiva Conio automatico zREEX</translation>
     </message>
     <message>
-        <source>Percentage of incoming REEX which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentuale di REEX in entrata che viene automaticamente convertita in zREEX attraverso il protocollo Zerocoin (min: 10%)</translation>
+        <source>Percentage of incoming WEYC which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentuale di WEYC in entrata che viene automaticamente convertita in zREEX attraverso il protocollo Zerocoin (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zREEX</source>
@@ -1792,8 +1792,8 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Saldo totale, inclusi tutte le monete non disponibili.</translation>
     </message>
     <message>
-        <source>REEX Balance</source>
-        <translation>Bilancio REEX</translation>
+        <source>WEYC Balance</source>
+        <translation>Bilancio WEYC</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -1804,8 +1804,8 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Saldo corrente bloccato in indirizzi sola-lettura.</translation>
     </message>
     <message>
-        <source>Your current REEX balance, unconfirmed and immature transactions included</source>
-        <translation>Il tuo saldo REEX corrente, incluse le transazioni non confermate e non mature</translation>
+        <source>Your current WEYC balance, unconfirmed and immature transactions included</source>
+        <translation>Il tuo saldo WEYC corrente, incluse le transazioni non confermate e non mature</translation>
     </message>
     <message>
         <source>zREEX Balance</source>
@@ -1846,8 +1846,8 @@ Questi zREEX sono spendibili.</translation>
         <translation>Spendibili:</translation>
     </message>
     <message>
-        <source>Locked REEX or Masternode collaterals. These are excluded from zREEX minting.</source>
-        <translation>REEX bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zREEX.</translation>
+        <source>Locked WEYC or Masternode collaterals. These are excluded from zREEX minting.</source>
+        <translation>WEYC bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zREEX.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -1937,8 +1937,8 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>zREEX</translation>
     </message>
     <message>
-        <source>0.000 000 00 REEX</source>
-        <translation>0.000 000 00 REEX</translation>
+        <source>0.000 000 00 WEYC</source>
+        <translation>0.000 000 00 WEYC</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1962,7 +1962,7 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
     </message>
     <message>
         <source>Enter an amount of Reex to convert to zREEX</source>
-        <translation>Immetti un importo di REEX da convertire in zREEX</translation>
+        <translation>Immetti un importo di WEYC da convertire in zREEX</translation>
     </message>
     <message>
         <source>zREEX Control</source>
@@ -2483,8 +2483,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>L'indirizzo REEX per firmare il messaggio con</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>L'indirizzo WEYC per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2507,16 +2507,16 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo REEX</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo WEYC</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>L'indirizzo REEX con cui è stato firmato il messaggio</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>L'indirizzo WEYC con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo REEX specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo WEYC specificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -2554,8 +2554,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     </context>
 <context>

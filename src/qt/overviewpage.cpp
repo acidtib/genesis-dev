@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2018-2020 The REEX developers
+// Copyright (c) 2018-2020 The WEYC developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -40,7 +40,7 @@ class TxViewDelegate : public QAbstractItemDelegate
 {
     Q_OBJECT
 public:
-    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::REEX)
+    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::WEYC)
     {
     }
 
@@ -198,15 +198,15 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
         nWatchOnlyLockedBalance = pwalletMain->GetLockedWatchOnlyBalance();
     }
 
-    // REEX Balance
+    // WEYC Balance
     CAmount nTotalBalance = balance + unconfirmedBalance;
     CAmount reexAvailableBalance = balance - immatureBalance - nLockedBalance;
 
-    // REEX Watch-Only Balance
+    // WEYC Watch-Only Balance
     CAmount nTotalWatchBalance = watchOnlyBalance + watchUnconfBalance;
     CAmount nAvailableWatchBalance = watchOnlyBalance - watchImmatureBalance - nWatchOnlyLockedBalance;
 
-    // REEX labels
+    // WEYC labels
     ui->labelBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, reexAvailableBalance, false, BitcoinUnits::separatorAlways));
     ui->labelUnconfirmed->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, unconfirmedBalance, false, BitcoinUnits::separatorAlways));
     ui->labelImmature->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, immatureBalance, false, BitcoinUnits::separatorAlways));
@@ -226,28 +226,28 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
 
     bool showWatchOnly = nTotalWatchBalance != 0;
 
-    // REEX Available
+    // WEYC Available
     bool showREEXAvailable = settingShowAllBalances || reexAvailableBalance != nTotalBalance;
     bool showWatchOnlyREEXAvailable = showREEXAvailable || nAvailableWatchBalance != nTotalWatchBalance;
     ui->labelBalanceText->setVisible(showREEXAvailable || showWatchOnlyREEXAvailable);
     ui->labelBalance->setVisible(showREEXAvailable || showWatchOnlyREEXAvailable);
     ui->labelWatchAvailable->setVisible(showREEXAvailable && showWatchOnly);
 
-    // REEX Pending
+    // WEYC Pending
     bool showREEXPending = settingShowAllBalances || unconfirmedBalance != 0;
     bool showWatchOnlyREEXPending = showREEXPending || watchUnconfBalance != 0;
     ui->labelPendingText->setVisible(showREEXPending || showWatchOnlyREEXPending);
     ui->labelUnconfirmed->setVisible(showREEXPending || showWatchOnlyREEXPending);
     ui->labelWatchPending->setVisible(showREEXPending && showWatchOnly);
 
-    // REEX Immature
+    // WEYC Immature
     bool showImmature = settingShowAllBalances || immatureBalance != 0;
     bool showWatchOnlyImmature = showImmature || watchImmatureBalance != 0;
     ui->labelImmatureText->setVisible(showImmature || showWatchOnlyImmature);
     ui->labelImmature->setVisible(showImmature || showWatchOnlyImmature); // for symmetry reasons also show immature label when the watch-only one is shown
     ui->labelWatchImmature->setVisible(showWatchOnlyImmature && showWatchOnly); // show watch-only immature balance
 
-    // REEX Locked
+    // WEYC Locked
     bool showREEXLocked = settingShowAllBalances || nLockedBalance != 0;
     bool showWatchOnlyREEXLocked = showREEXLocked || nWatchOnlyLockedBalance != 0;
     ui->labelLockedBalanceText->setVisible(showREEXLocked || showWatchOnlyREEXLocked);
@@ -322,7 +322,7 @@ void OverviewPage::setWalletModel(WalletModel* model)
         connect(model, SIGNAL(notifyWatchonlyChanged(bool)), this, SLOT(updateWatchOnlyLabels(bool)));
     }
 
-    // update the display unit, to not use the default (REEX)
+    // update the display unit, to not use the default (WEYC)
     updateDisplayUnit();
 }
 

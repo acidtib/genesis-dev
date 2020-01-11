@@ -62,12 +62,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai jūsų REEX adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai jūsų WEYC adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai jūsų REEX adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai jūsų WEYC adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Patvirtinkite piniginės užšifravimą.</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>Dabar REEX išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų REEX nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>Dabar WEYC išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų WEYC nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ar tikrai norite užšifruoti savo piniginę?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
-        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO REEX&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
+        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO WEYC&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adresas:</translation>
     </message>
     <message>
-        <source>Enter a REEX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Įveskite REEX adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
+        <source>Enter a WEYC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Įveskite WEYC adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
     </message>
     <message>
-        <source>The REEX address to encrypt</source>
-        <translation>REEX adresas, kurį norite užšifruoti</translation>
+        <source>The WEYC address to encrypt</source>
+        <translation>WEYC adresas, kurį norite užšifruoti</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this REEX address</source>
-        <translation>Užšifruoti šio REEX adreso privatų raktą</translation>
+        <source>Encrypt the private key for this WEYC address</source>
+        <translation>Užšifruoti šio WEYC adreso privatų raktą</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>Skirtukų įrankių juosta</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>Siųsti monetas į REEX adresą</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>Siųsti monetas į WEYC adresą</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Naršyti masternod'us</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>&amp;Apie REEX Core</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>&amp;Apie WEYC Core</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>Rodyti informaciją apie REEX Core</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>Rodyti informaciją apie WEYC Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>Keisti REEX konfigūravimo parinktis</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>Keisti WEYC konfigūravimo parinktis</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
-        <translation>Pasirašykite pranešimus naudodami savo REEX adresus, kad įrodytumėte, kad juos turite</translation>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
+        <translation>Pasirašykite pranešimus naudodami savo WEYC adresus, kad įrodytumėte, kad juos turite</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais REEX adresais</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais WEYC adresais</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Atidaryti Masternod'o konfigūracijos failą</translation>
     </message>
     <message>
-        <source>Open a REEX: URI or payment request</source>
-        <translation>Atidaryti REEX: URI arba mokėjimo prašymą</translation>
+        <source>Open a WEYC: URI or payment request</source>
+        <translation>Atidaryti WEYC: URI arba mokėjimo prašymą</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blokų naršyklės langas</translation>
     </message>
     <message>
-        <source>Show the REEX Core help message to get a list with possible REEX command-line options</source>
-        <translation>Rodyti REEX Core žinyną, kad gautumėte sąrašą su galimomis REEX komandinės eilutės parinktimis</translation>
+        <source>Show the WEYC Core help message to get a list with possible WEYC command-line options</source>
+        <translation>Rodyti WEYC Core žinyną, kad gautumėte sąrašą su galimomis WEYC komandinės eilutės parinktimis</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>REEX Core piniginė</translation>
+        <source>WEYC Core client</source>
+        <translation>WEYC Core piniginė</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to REEX network</source>
-        <translation><numerusform>%n aktyvių prisijungimų REEX tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų REEX tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų REEX tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų REEX tinkle ()</numerusform></translation>
+        <source>%n active connection(s) to WEYC network</source>
+        <translation><numerusform>%n aktyvių prisijungimų WEYC tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų WEYC tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų WEYC tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų WEYC tinkle ()</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1177,8 +1177,8 @@ MultiSend: %1</translation>
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid REEX address.</source>
-        <translation>Įvestas adresas "%1" nėra galiojantis REEX adresas.</translation>
+        <source>The entered address "%1" is not a valid WEYC address.</source>
+        <translation>Įvestas adresas "%1" nėra galiojantis WEYC adresas.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ MultiSend: %1</translation>
         <translation>versija</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About REEX Core</source>
-        <translation>Apie REEX Core</translation>
+        <source>About WEYC Core</source>
+        <translation>Apie WEYC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1278,16 +1278,16 @@ MultiSend: %1</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to REEX Core.</source>
-        <translation>Sveiki atvykę į REEX Core</translation>
+        <source>Welcome to WEYC Core.</source>
+        <translation>Sveiki atvykę į WEYC Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where REEX Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur REEX Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where WEYC Core will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur WEYC Core saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>REEX Core will download and store a copy of the REEX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>REEX Core atsisiųs ir saugos REEX blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>WEYC Core will download and store a copy of the WEYC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>WEYC Core atsisiųs ir saugos WEYC blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1298,8 +1298,8 @@ MultiSend: %1</translation>
         <translation>Naudoti pasirinktą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1440,12 +1440,12 @@ MultiSend: %1</translation>
         <translation>Įveskite adresą kuriam norite siųsti</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other REEX addresses after it matures.
-To Add: enter percentage to give and REEX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other WEYC addresses after it matures.
+To Add: enter percentage to give and WEYC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus REEX adresus.
-Norėdami pridėti: įveskite pateiktą procentą ir REEX adresą, kurį norite pridėti prie MultiSend sąrašo.
+        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus WEYC adresus.
+Norėdami pridėti: įveskite pateiktą procentą ir WEYC adresą, kurį norite pridėti prie MultiSend sąrašo.
 Norėdami ištrinti: įveskite adresą, kurį norite ištrinti, ir paspauskite ištrinti
 MultiSend nebus aktyvuotas, nebent paspausite "Įjungti"</translation>
     </message>
@@ -1651,8 +1651,8 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Adresas / Suma:</translation>
     </message>
     <message>
-        <source>Add destinations to send REEX to</source>
-        <translation>Pridėkite vietas, kurioms norite siųsti REEX</translation>
+        <source>Add destinations to send WEYC to</source>
+        <translation>Pridėkite vietas, kurioms norite siųsti WEYC</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1750,48 +1750,48 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Pasirinkite privatumo lygmenį.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 REEX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 WEYC</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 REEX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 WEYC</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Naudokite 16 atskirų masternod'ų</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 REEX to anonymize 10000 REEX</source>
-        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 REEX, kad anonimizuotų 10000 REEX</translation>
+        <source>This option is the quickest and will cost about ~0.025 WEYC to anonymize 10000 WEYC</source>
+        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 WEYC, kad anonimizuotų 10000 WEYC</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 REEX to anonymize 10000 REEX</source>
-        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 REEX, kad anonimizuotų 10000 REEX</translation>
+        <source>This option is moderately fast and will cost about 0.05 WEYC to anonymize 10000 WEYC</source>
+        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 WEYC, kad anonimizuotų 10000 WEYC</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Tai yra lėčiausias ir saugiausias variantas. Maksimalus anonimiškumas kainuos.</translation>
     </message>
     <message>
-        <source>0.1 REEX per 10000 REEX you anonymize.</source>
-        <translation>0.1 REEX kas 1000 REEX kuriuos anonimizuosite.</translation>
+        <source>0.1 WEYC per 10000 WEYC you anonymize.</source>
+        <translation>0.1 WEYC kas 1000 WEYC kuriuos anonimizuosite.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Obfuscation Konfigūracija</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę REEX konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę WEYC konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę REEX konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę WEYC konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę REEX konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę WEYC konfigūracijos ekraną.</translation>
     </message>
 </context>
 <context>
@@ -1844,12 +1844,12 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Ekspertas</translation>
     </message>
     <message>
-        <source>Automatically start REEX after logging in to the system.</source>
-        <translation>Automatiškai paleisti REEX prisijungus prie sistemos.</translation>
+        <source>Automatically start WEYC after logging in to the system.</source>
+        <translation>Automatiškai paleisti WEYC prisijungus prie sistemos.</translation>
     </message>
     <message>
-        <source>&amp;Start REEX on system login</source>
-        <translation>&amp;Paleisti REEX sistemai įsijungiant</translation>
+        <source>&amp;Start WEYC on system login</source>
+        <translation>&amp;Paleisti WEYC sistemai įsijungiant</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1876,8 +1876,8 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting REEX.</source>
-        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "REEX".</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting WEYC.</source>
+        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "WEYC".</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1890,16 +1890,16 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Įrašyti prievadą naudojant &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of REEX units to zREEX</source>
-        <translation>Įgalinti automatinį konvertavimą iš REEX į zREEX</translation>
+        <source>Enable automatic minting of WEYC units to zREEX</source>
+        <translation>Įgalinti automatinį konvertavimą iš WEYC į zREEX</translation>
     </message>
     <message>
         <source>Enable zREEX Automint</source>
         <translation>Įgalinti zREEX Automatinį nukaldinima</translation>
     </message>
     <message>
-        <source>Percentage of incoming REEX which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procentas gauto REEX, kuris automatiškai bus konvertuotas į zREEX naudojant Zerocoin Protokolą (min: 10%)</translation>
+        <source>Percentage of incoming WEYC which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procentas gauto WEYC, kuris automatiškai bus konvertuotas į zREEX naudojant Zerocoin Protokolą (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zREEX</source>
@@ -1910,8 +1910,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Pageidautinas zREEX Automatinio Nukaldinimo Nominalas</translation>
     </message>
     <message>
-        <source>Connect to the REEX network through a SOCKS5 proxy.</source>
-        <translation>Jungtis prie REEX tinklo naudojant SOCKS5 tarpinį serverį.</translation>
+        <source>Connect to the WEYC network through a SOCKS5 proxy.</source>
+        <translation>Jungtis prie WEYC tinklo naudojant SOCKS5 tarpinį serverį.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2029,8 +2029,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Bendras balansas, įskaitant visas nepasiekiamas monetas.</translation>
     </message>
     <message>
-        <source>REEX Balance</source>
-        <translation>REEX Balansas</translation>
+        <source>WEYC Balance</source>
+        <translation>WEYC Balansas</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2053,8 +2053,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Dabartinis bendras užrakintas balansas tik žiūrėjimo adresuose</translation>
     </message>
     <message>
-        <source>Your current REEX balance, unconfirmed and immature transactions included</source>
-        <translation>Jūsų dabartinis REEX balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
+        <source>Your current WEYC balance, unconfirmed and immature transactions included</source>
+        <translation>Jūsų dabartinis WEYC balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
     </message>
     <message>
         <source>zREEX Balance</source>
@@ -2073,8 +2073,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo po to, kai buvo konvertuotas.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su REEX tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su WEYC tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2117,8 +2117,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prienamas išleidimui:</translation>
     </message>
     <message>
-        <source>Locked REEX or Masternode collaterals. These are excluded from zREEX minting.</source>
-        <translation>Užrakinti REEX arba Masternode užstatai. Jie yra neįtraukti į zREEX kalimą.</translation>
+        <source>Locked WEYC or Masternode collaterals. These are excluded from zREEX minting.</source>
+        <translation>Užrakinti WEYC arba Masternode užstatai. Jie yra neįtraukti į zREEX kalimą.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2210,8 +2210,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Zerocoin Veiksmai:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su REEX tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su WEYC tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2234,8 +2234,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prieinama Konvertavimui:</translation>
     </message>
     <message>
-        <source>0.000 000 00 REEX</source>
-        <translation>0.000 000 00 REEX</translation>
+        <source>0.000 000 00 WEYC</source>
+        <translation>0.000 000 00 WEYC</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2604,8 +2604,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida: jūsų piniginė užrakinta. Pirmiausia įveskite piniginės slaptažodį.</translation>
     </message>
     <message>
-        <source>Invalid REEX Address</source>
-        <translation>Netinkamas REEX Adresas</translation>
+        <source>Invalid WEYC Address</source>
+        <translation>Netinkamas WEYC Adresas</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2651,8 +2651,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a REEX address (e.g. %1)</source>
-        <translation>Įveskite REEX adresą (pvz. %1)</translation>
+        <source>Enter a WEYC address (e.g. %1)</source>
+        <translation>Įveskite WEYC adresą (pvz. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2829,8 +2829,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Iš:</translation>
     </message>
     <message>
-        <source>Welcome to the REEX RPC console.</source>
-        <translation>Sveiki atvykę į REEX RPC konsolę.</translation>
+        <source>Welcome to the WEYC RPC console.</source>
+        <translation>Sveiki atvykę į WEYC RPC konsolę.</translation>
     </message>
     <message>
         <source>never</source>
@@ -3001,8 +3001,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Pasirinktinio pakeitimo adresas</translation>
     </message>
     <message>
-        <source>0 REEX</source>
-        <translation>0 REEX</translation>
+        <source>0 WEYC</source>
+        <translation>0 WEYC</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3158,8 +3158,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>REEX adresas, kuriuo pasirašyti žinute</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>WEYC adresas, kuriuo pasirašyti žinute</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3182,16 +3182,16 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio REEX adreso savininkas</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio WEYC adreso savininkas</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>REEX adresas, kurio buvo pasirašyta žinutė</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>WEYC adresas, kurio buvo pasirašyta žinutė</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu REEX adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu WEYC adresu</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -3229,8 +3229,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     </context>
 <context>
@@ -3494,8 +3494,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of REEX Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės REEX Core versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of WEYC Core</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės WEYC Core versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3726,8 +3726,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Piniginė užrakinta.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart REEX Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite REEX Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart WEYC Core to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite WEYC Core iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

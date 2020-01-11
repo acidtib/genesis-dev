@@ -62,12 +62,12 @@
         <translation>Adrese za primanje</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše REEX adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše WEYC adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše REEX adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše WEYC adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,15 +172,15 @@
         <translation>Potvrdite šifriranje novčanika</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše REEX od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše WEYC od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
         <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ REEX1!</translation>
     </message>
     <message>
@@ -601,12 +601,12 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>Pošaljite kovanice na REEX adresu</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>Pošaljite kovanice na WEYC adresu</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
@@ -625,24 +625,24 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>&amp; O REEX Coreu</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>&amp; O WEYC Coreu</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>Prikaz informacija o REEX Coreu</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>Prikaz informacija o WEYC Coreu</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>Izmijenite opcije konfiguracije za REEX</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>Izmijenite opcije konfiguracije za WEYC</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim REEX adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim WEYC adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim REEX adresama</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim WEYC adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -653,8 +653,8 @@
         <translation>Šifriranje i dešifriranje privatnih ključeva pomoću zaporke</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>REEX Core klijent</translation>
+        <source>WEYC Core client</source>
+        <translation>WEYC Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -751,15 +751,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1045,8 +1045,8 @@
         <translation>ne</translation>
     </message>
     <message>
-        <source>0 REEX</source>
-        <translation>0 REEX</translation>
+        <source>0 WEYC</source>
+        <translation>0 WEYC</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -1111,15 +1111,15 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>REEX Core is shutting down...</source>
-        <translation>REEX Core se gasi...</translation>
+        <source>WEYC Core is shutting down...</source>
+        <translation>WEYC Core se gasi...</translation>
     </message>
     </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>REEX adresa za potpisivanje poruke s</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>WEYC adresa za potpisivanje poruke s</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1142,16 +1142,16 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove REEX adrese</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove WEYC adrese</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>REEX adresa s kojom je potpisana poruka</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>WEYC adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom REEX adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom WEYC adresom</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1197,8 +1197,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Version %1</source>

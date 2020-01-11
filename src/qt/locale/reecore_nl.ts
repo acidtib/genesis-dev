@@ -62,12 +62,12 @@
         <translation>Ontvangstadressen</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw REEX adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw WEYC adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw REEX adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw WEYC adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw REEX's kunnen stelen.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw WEYC's kunnen stelen.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Weet u zeker dat u uw portemonnee wilt versleutelen?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW REEX VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW WEYC VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adres:</translation>
     </message>
     <message>
-        <source>Enter a REEX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Voer een REEX adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
+        <source>Enter a WEYC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Voer een WEYC adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
     </message>
     <message>
-        <source>The REEX address to encrypt</source>
-        <translation>Het REEX adres om te versleutelen</translation>
+        <source>The WEYC address to encrypt</source>
+        <translation>Het WEYC adres om te versleutelen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this REEX address</source>
-        <translation>Versleutel de privé sleutel voor dit REEX adres</translation>
+        <source>Encrypt the private key for this WEYC address</source>
+        <translation>Versleutel de privé sleutel voor dit WEYC adres</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,16 +645,16 @@
         <translation>Tabblad werkbalk</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>Verstuur munten naar een REEX adres</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>Verstuur munten naar een WEYC adres</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR codes en REEX: URI's)</translation>
+        <translation>Vraag betaling aan (genereert QR codes en WEYC: URI's)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Bekijk masternodes</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>&amp;Over REEX Core</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>&amp;Over WEYC Core</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>Toon informatie over REEX Kern</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>Toon informatie over WEYC Kern</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>Wijzig REEX configuratie opties</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>Wijzig WEYC configuratie opties</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw REEX adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw WEYC adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde REEX adressen</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde WEYC adressen</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Open Masternode configuratiebestand</translation>
     </message>
     <message>
-        <source>Open a REEX: URI or payment request</source>
-        <translation>Open een REEX: URI of betaalverzoek</translation>
+        <source>Open a WEYC: URI or payment request</source>
+        <translation>Open een WEYC: URI of betaalverzoek</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Block verkenner venster</translation>
     </message>
     <message>
-        <source>Show the REEX Core help message to get a list with possible REEX command-line options</source>
-        <translation>Toon het REEX Core help bericht om een ​​lijst te krijgen met mogelijke REEX command line opties</translation>
+        <source>Show the WEYC Core help message to get a list with possible WEYC command-line options</source>
+        <translation>Toon het WEYC Core help bericht om een ​​lijst te krijgen met mogelijke WEYC command line opties</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>REEX Core client</translation>
+        <source>WEYC Core client</source>
+        <translation>WEYC Core client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to REEX network</source>
-        <translation><numerusform>%n actieve verbindingen met het REEX netwerk</numerusform><numerusform>%n actieve connectie(s) naar REEX netwerk</numerusform></translation>
+        <source>%n active connection(s) to WEYC network</source>
+        <translation><numerusform>%n actieve verbindingen met het WEYC netwerk</numerusform><numerusform>%n actieve connectie(s) naar WEYC netwerk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Wijzig verzend adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid REEX address.</source>
-        <translation>Het ingevoerde adres: "%1" is geen geldig REEX adres.</translation>
+        <source>The entered address "%1" is not a valid WEYC address.</source>
+        <translation>Het ingevoerde adres: "%1" is geen geldig WEYC adres.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>versie</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About REEX Core</source>
-        <translation>Over REEX Core</translation>
+        <source>About WEYC Core</source>
+        <translation>Over WEYC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to REEX Core.</source>
-        <translation>Welkom bij REEX Core.</translation>
+        <source>Welcome to WEYC Core.</source>
+        <translation>Welkom bij WEYC Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where REEX Core will store its data.</source>
-        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar REEX Core zijn data opslaat.</translation>
+        <source>As this is the first time the program is launched, you can choose where WEYC Core will store its data.</source>
+        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar WEYC Core zijn data opslaat.</translation>
     </message>
     <message>
-        <source>REEX Core will download and store a copy of the REEX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>REEX Core zal een kopie van de REEX blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
+        <source>WEYC Core will download and store a copy of the WEYC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>WEYC Core zal een kopie van de WEYC blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Gebruik een aangepaste data directory:</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Core</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Vul het adres in om naar te verzenden</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other REEX addresses after it matures.
-To Add: enter percentage to give and REEX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other WEYC addresses after it matures.
+To Add: enter percentage to give and WEYC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere REEX adressen nadat het volwassen is. 
-Toevoegen: voer het te geven percentage in en REEX adres om toe te voegen aan de MultiSend vector.
+        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere WEYC adressen nadat het volwassen is. 
+Toevoegen: voer het te geven percentage in en WEYC adres om toe te voegen aan de MultiSend vector.
 Verwijderen: Voer adres in om te verwijderen en druk op delete.
 MultiSend zal niet worden geactiveerd tenzij je op Activeer hebt geklikt</translation>
     </message>
@@ -1681,8 +1681,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Adres / Bedrag:</translation>
     </message>
     <message>
-        <source>Add destinations to send REEX to</source>
-        <translation>Voeg bestemmingen toe om REEX naar te verzenden</translation>
+        <source>Add destinations to send WEYC to</source>
+        <translation>Voeg bestemmingen toe om WEYC naar te verzenden</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1780,48 +1780,48 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Selecteer de privacy level.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 REEX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 WEYC</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 REEX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 WEYC</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Gebruik 16 aparte masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 REEX to anonymize 10000 REEX</source>
-        <translation>Deze optie is het snelst en kost ongeveer ~0,025 REEX om 10000 REEX te anonimiseren</translation>
+        <source>This option is the quickest and will cost about ~0.025 WEYC to anonymize 10000 WEYC</source>
+        <translation>Deze optie is het snelst en kost ongeveer ~0,025 WEYC om 10000 WEYC te anonimiseren</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 REEX to anonymize 10000 REEX</source>
-        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 REEX om 10000 REEX te anonimiseren</translation>
+        <source>This option is moderately fast and will cost about 0.05 WEYC to anonymize 10000 WEYC</source>
+        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 WEYC om 10000 WEYC te anonimiseren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Dit is de langzaamste en veiligste optie. Het gebruik van maximale anonimiteit kost</translation>
     </message>
     <message>
-        <source>0.1 REEX per 10000 REEX you anonymize.</source>
-        <translation>je anonimiseert 0,1 REEX per 10000 REEX.</translation>
+        <source>0.1 WEYC per 10000 WEYC you anonymize.</source>
+        <translation>je anonimiseert 0,1 WEYC per 10000 WEYC.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Verduistering configuratie</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van REEX te openen.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van WEYC te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van REEX te openen.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van WEYC te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening REEX's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van REEX te openen.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening WEYC's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van WEYC te openen.</translation>
     </message>
 </context>
 <context>
@@ -1882,8 +1882,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Als je de uitgaven van onbevestigde wijzigingen uitschakelt, de wijziging van een transactie&lt;br/&gt;kan niet worden gebruikt tot die transactie tenminste één bevestiging heeft.&lt;br/&gt;Dit beïnvloedt ook hoe uw saldo is berekend.</translation>
     </message>
     <message>
-        <source>Automatically open the REEX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de REEX client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
+        <source>Automatically open the WEYC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de WEYC client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start REEX after logging in to the system.</source>
-        <translation>REEX automatisch opstarten na inloggen op het systeem.</translation>
+        <source>Automatically start WEYC after logging in to the system.</source>
+        <translation>WEYC automatisch opstarten na inloggen op het systeem.</translation>
     </message>
     <message>
-        <source>&amp;Start REEX on system login</source>
-        <translation>&amp;REEX starten bij systeemlogin</translation>
+        <source>&amp;Start WEYC on system login</source>
+        <translation>&amp;WEYC starten bij systeemlogin</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,8 +1934,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>&amp;Netwerk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting REEX.</source>
-        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van REEX.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting WEYC.</source>
+        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van WEYC.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1948,24 +1948,24 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Map poort gebruikt &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of REEX units to zREEX</source>
-        <translation>Schakel automatisch slaan van REEX-eenheden in op zREEX</translation>
+        <source>Enable automatic minting of WEYC units to zREEX</source>
+        <translation>Schakel automatisch slaan van WEYC-eenheden in op zREEX</translation>
     </message>
     <message>
         <source>Enable zREEX Automint</source>
         <translation>Schakel zREEX Automint in</translation>
     </message>
     <message>
-        <source>Percentage of incoming REEX which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende REEX die automatisch wordt omgezet naar zREEX via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming WEYC which get automatically converted to zREEX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende WEYC die automatisch wordt omgezet naar zREEX via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zREEX</source>
         <translation>Percentage autominted zREEX</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough REEX for this denomination is available</source>
-        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg REEX voor deze denominatie beschikbaar is</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough WEYC for this denomination is available</source>
+        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg WEYC voor deze denominatie beschikbaar is</translation>
     </message>
     <message>
         <source>Preferred Automint zREEX Denomination</source>
@@ -1976,8 +1976,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Inzet splitdrempel:</translation>
     </message>
     <message>
-        <source>Connect to the REEX network through a SOCKS5 proxy.</source>
-        <translation>Maak verbinding met het REEX netwerk via een SOCKS5 proxy.</translation>
+        <source>Connect to the WEYC network through a SOCKS5 proxy.</source>
+        <translation>Maak verbinding met het WEYC netwerk via een SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Totaal saldo, inclusief alle niet-beschikbare munten.</translation>
     </message>
     <message>
-        <source>REEX Balance</source>
-        <translation>REEX Balance</translation>
+        <source>WEYC Balance</source>
+        <translation>WEYC Balance</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,8 +2155,8 @@ https://www.transifex.com/reex-project/reex-project-translations</translation>
         <translation>Huidige vergrendelde balans in alleen-lezen-adressen</translation>
     </message>
     <message>
-        <source>Your current REEX balance, unconfirmed and immature transactions included</source>
-        <translation>Uw huidige REEX-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
+        <source>Your current WEYC balance, unconfirmed and immature transactions included</source>
+        <translation>Uw huidige WEYC-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
     </message>
     <message>
         <source>zREEX Balance</source>
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat het gemint was.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het REEX netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het WEYC netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Uitgeefbaar:</translation>
     </message>
     <message>
-        <source>Locked REEX or Masternode collaterals. These are excluded from zREEX minting.</source>
-        <translation>Vergrendelde REEX of Masternode onderpanden. Deze zijn uitgesloten van de zREEX muntage.</translation>
+        <source>Locked WEYC or Masternode collaterals. These are excluded from zREEX minting.</source>
+        <translation>Vergrendelde WEYC of Masternode onderpanden. Deze zijn uitgesloten van de zREEX muntage.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2292,8 +2292,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Kan reex niet starten: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid REEX address or malformed URI parameters.</source>
-        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig REEX adres of misvormde URL parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid WEYC address or malformed URI parameters.</source>
+        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig WEYC adres of misvormde URL parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Zerocoin Acties:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the REEX network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het REEX netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WEYC network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het WEYC netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2402,8 +2402,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Beschikbaar voor minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 REEX</source>
-        <translation>0.000 000 00 REEX</translation>
+        <source>0.000 000 00 WEYC</source>
+        <translation>0.000 000 00 WEYC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2443,7 +2443,7 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
     </message>
     <message>
         <source>Enter an amount of Reex to convert to zREEX</source>
-        <translation>Vul het aantal REEX in om te converteren naar zREEX</translation>
+        <translation>Vul het aantal WEYC in om te converteren naar zREEX</translation>
     </message>
     <message>
         <source>zREEX Control</source>
@@ -2502,8 +2502,8 @@ zReex zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The REEX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Het REEX adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
+        <source>The WEYC address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Het WEYC adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2929,8 +2929,8 @@ Maximaal toegestaan:</translation>
         <translation>Geen 'Betaal aan' adres verstrekt, lokale betaling wordt gemaakt</translation>
     </message>
     <message>
-        <source>Invalid REEX Address</source>
-        <translation>Ongeldig REEX addres</translation>
+        <source>Invalid WEYC Address</source>
+        <translation>Ongeldig WEYC addres</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2988,7 +2988,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of REEX to convert to zREEX</comment>
+        <comment>Enter an amount of WEYC to convert to zREEX</comment>
         <translation><numerusform>PrivacyDialoog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3031,8 +3031,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Hoeveelheid</translation>
     </message>
     <message>
-        <source>Enter a REEX address (e.g. %1)</source>
-        <translation>Voer een REEX adres in (b.v. %1)</translation>
+        <source>Enter a WEYC address (e.g. %1)</source>
+        <translation>Voer een WEYC adres in (b.v. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3169,8 +3169,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the REEX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het REEX debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
+        <source>Open the WEYC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het WEYC debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3385,8 +3385,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uit:</translation>
     </message>
     <message>
-        <source>Welcome to the REEX RPC console.</source>
-        <translation>Welkom bij de REEX RPC console.</translation>
+        <source>Welcome to the WEYC RPC console.</source>
+        <translation>Welkom bij de WEYC RPC console.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3512,16 +3512,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Een optioneel label om te associëren met het nieuwe ontvangstadres.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the REEX network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het REEX netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the WEYC network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het WEYC netwerk.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ontvangen</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the REEX network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het REEX netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the WEYC network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het WEYC netwerk.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3749,8 +3749,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>UTXO grootte:</translation>
     </message>
     <message>
-        <source>0 REEX</source>
-        <translation>0 REEX</translation>
+        <source>0 WEYC</source>
+        <translation>0 WEYC</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3813,8 +3813,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Als de aangepaste vergoeding is ingesteld op 1000 uREEXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uREEX's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uREEX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for REEX transactions than the network can process.</source>
-        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar REEX transacties dan het netwerk kan verwerken.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for WEYC transactions than the network can process.</source>
+        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar WEYC transacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3861,8 +3861,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Voeg &amp;ontvanger toe</translation>
     </message>
     <message>
-        <source>Anonymized REEX</source>
-        <translation>Geanonimiseerde REEX</translation>
+        <source>Anonymized WEYC</source>
+        <translation>Geanonimiseerde WEYC</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3909,8 +3909,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het split block tool werkt niet met meerdere adressen. Probeer het nog eens.</translation>
     </message>
     <message>
-        <source>Warning: Invalid REEX address</source>
-        <translation>Waarschuwing: Ongeldig REEX adres</translation>
+        <source>Warning: Invalid WEYC address</source>
+        <translation>Waarschuwing: Ongeldig WEYC adres</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The REEX address to send the payment to</source>
-        <translation>Het REEX adres om de betaling naar te verzenden</translation>
+        <source>The WEYC address to send the payment to</source>
+        <translation>Het WEYC adres om de betaling naar te verzenden</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Bericht:</translation>
     </message>
     <message>
-        <source>A message that was attached to the REEX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the REEX network.</source>
-        <translation>Een bericht dat is gehecht aan de REEX: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het REEX netwerk.</translation>
+        <source>A message that was attached to the WEYC: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the WEYC network.</source>
+        <translation>Een bericht dat is gehecht aan de WEYC: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het WEYC netwerk.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>REEX Core is shutting down...</source>
-        <translation>REEX Core is aan het afsluiten...</translation>
+        <source>WEYC Core is shutting down...</source>
+        <translation>WEYC Core is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Je kunt berichten met je adressen ondertekenen om te bewijzen dat je ze bezit. Wees voorzichtig om niets vaags te ondertekenen, omdat phishing aanvallen je misschien kunnen proberen om je identiteit over te geven. Teken alleen volledig gedetailleerde verklaringen aan waar je mee akkoord gaat.</translation>
     </message>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>Het REEX adres om het bericht met te ondertekenen</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>Het WEYC adres om het bericht met te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Onderteken het bericht om te bewijzen dat u het REEX adres bezit</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Onderteken het bericht om te bewijzen dat u het WEYC adres bezit</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>Het REEX adres waarmee het bericht was ondertekend</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>Het WEYC adres waarmee het bericht was ondertekend</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde REEX adres</translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde WEYC adres</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4229,8 +4229,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Kern</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Kern</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>The REEX Core developers</source>
-        <translation>De REEX Kernontwikkelaars</translation>
+        <source>The WEYC Core developers</source>
+        <translation>De WEYC Kernontwikkelaars</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4525,8 +4525,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verkregen via verduistering</translation>
     </message>
     <message>
-        <source>REEX Stake</source>
-        <translation>REEX Stake</translation>
+        <source>WEYC Stake</source>
+        <translation>WEYC Stake</translation>
     </message>
     <message>
         <source>zREEX Stake</source>
@@ -4549,24 +4549,24 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verduistering creëert denominaties</translation>
     </message>
     <message>
-        <source>Converted REEX to zREEX</source>
-        <translation>Geconverteerde REEX naar zREEX</translation>
+        <source>Converted WEYC to zREEX</source>
+        <translation>Geconverteerde WEYC naar zREEX</translation>
     </message>
     <message>
         <source>Spent zREEX</source>
         <translation>Bestede zREEX</translation>
     </message>
     <message>
-        <source>Received REEX from zREEX</source>
-        <translation>Ontvangen REEX van zREEX</translation>
+        <source>Received WEYC from zREEX</source>
+        <translation>Ontvangen WEYC van zREEX</translation>
     </message>
     <message>
         <source>Minted Change as zREEX from zREEX Spend</source>
         <translation>Gemint wisselgeld als zREEX van bestede zREEX</translation>
     </message>
     <message>
-        <source>Converted zREEX to REEX</source>
-        <translation>Geconverteerde zREEX naar REEX</translation>
+        <source>Converted zREEX to WEYC</source>
+        <translation>Geconverteerde zREEX naar WEYC</translation>
     </message>
     <message>
         <source>Anonymous (zREEX Transaction)</source>
@@ -4784,8 +4784,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Exporteren succesvol</translation>
     </message>
     <message>
-        <source>Received REEX from zREEX</source>
-        <translation>Ontvangen REEX van zREEX</translation>
+        <source>Received WEYC from zREEX</source>
+        <translation>Ontvangen WEYC van zREEX</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zREEX</source>
@@ -4825,8 +4825,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verzend Munten</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 REEX.</source>
-        <translation>SwiftX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 REEX.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 WEYC.</source>
+        <translation>SwiftX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 WEYC.</translation>
     </message>
 </context>
 <context>
@@ -4910,8 +4910,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het berekende accumulatie controlepunt is niet wat wordt geregistreerd door de blokindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. REEX Core is probably already running.</source>
-        <translation>Kan geen vergrendeling op data directory %s verkrijgen. REEX Core loopt waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. WEYC Core is probably already running.</source>
+        <translation>Kan geen vergrendeling op data directory %s verkrijgen. WEYC Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4942,8 +4942,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zREEX (0-1, standaard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for REEX inputs (0-1, default: %u)</source>
-        <translation>In- of uitschakelen staking functionaliteit voor REEX inputs (0-1, standaard: %u)</translation>
+        <source>Enable or disable staking functionality for WEYC inputs (0-1, default: %u)</source>
+        <translation>In- of uitschakelen staking functionaliteit voor WEYC inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zREEX inputs (0-1, default: %u)</source>
@@ -4982,12 +4982,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uitvoeren commando wanneer het beste blok verandert (%s in cmd is vervangen door block hash)</translation>
     </message>
     <message>
-        <source>Fees (in REEX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Kosten (in REEX/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
+        <source>Fees (in WEYC/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Kosten (in WEYC/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in REEX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Kosten (in REEX/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
+        <source>Fees (in WEYC/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Kosten (in WEYC/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5086,20 +5086,20 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. REEX Core is probably already running.</source>
-        <translation>Niet mogelijk te binden aan %s op deze computer. REEX Core loopt waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. WEYC Core is probably already running.</source>
+        <translation>Niet mogelijk te binden aan %s op deze computer. WEYC Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Kan niet genoeg verduistering gedenomineerde fondsen voor deze transactie vinden.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 REEX.</source>
-        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 REEX.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 WEYC.</source>
+        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 WEYC.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 REEX.</source>
-        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 REEX.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 WEYC.</source>
+        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 WEYC.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5114,8 +5114,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Waarschuwing: -paytxfee is zeer hoog ingesteld! Dit zijn de transactie kosten die je betaalt als je een transactie verstuurt.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong REEX Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt REEX Core niet goed.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong WEYC Core will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt WEYC Core niet goed.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5266,8 +5266,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The REEX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The REEX Kernontwikkelaars</translation>
+        <source>Copyright (C) 2015-%i The WEYC Core Developers</source>
+        <translation>Copyright (C) 2015-%i The WEYC Kernontwikkelaars</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5354,8 +5354,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Error tijdens het laden van wallet.dat: Portemonnee corrupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of REEX Core</source>
-        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van REEX Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of WEYC Core</source>
+        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van WEYC Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5410,8 +5410,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Mislukt om block te lezen</translation>
     </message>
     <message>
-        <source>Fee (in REEX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in REEX/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
+        <source>Fee (in WEYC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in WEYC/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5470,8 +5470,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. REEX Core is shutting down.</source>
-        <translation>Initialisatie saniteitscontrole mislukt. REEX Core wordt afgesloten.</translation>
+        <source>Initialization sanity check failed. WEYC Core is shutting down.</source>
+        <translation>Initialisatie saniteitscontrole mislukt. WEYC Core wordt afgesloten.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5542,8 +5542,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Percentage automatisch geminte Zerocoin (10-100, standaard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the REEX and zREEX money supply statistics</source>
-        <translation>Indexeer de REEX- en zREEX-geldvoorraadstatistieken opnieuw</translation>
+        <source>Reindex the WEYC and zREEX money supply statistics</source>
+        <translation>Indexeer de WEYC- en zREEX-geldvoorraadstatistieken opnieuw</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5582,8 +5582,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 </translation>
     </message>
     <message>
-        <source>Disable all REEX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Schakel alle specifieke REEX functionaliteit uit (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, standaard: %u)</translation>
+        <source>Disable all WEYC specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Schakel alle specifieke WEYC functionaliteit uit (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -6294,8 +6294,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee is vergrendeld.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart REEX Core to complete</source>
-        <translation>Wallet moest worden herschreven: start REEX Core opnieuw om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart WEYC Core to complete</source>
+        <translation>Wallet moest worden herschreven: start WEYC Core opnieuw om te voltooien</translation>
     </message>
     <message>
         <source>Wallet options:</source>

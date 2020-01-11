@@ -17,7 +17,7 @@
 CActiveMasternode activeMasternode;
 
 //
-// Bootup the Masternode, look for a REEX collateral input and register on the network
+// Bootup the Masternode, look for a WEYC collateral input and register on the network
 //
 void CActiveMasternode::ManageStatus()
 {

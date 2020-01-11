@@ -614,7 +614,7 @@ void RPCConsole::clear()
 
     message(CMD_REPLY,
         (
-            tr("Welcome to the REEX RPC console.") + "<br>" +
+            tr("Welcome to the WEYC RPC console.") + "<br>" +
             tr("Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.") + "<br>" +
             tr("Type <b>help</b> for an overview of available commands.") + "<br>" +
             "<br><span class=\"secwarning\">" +

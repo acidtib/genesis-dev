@@ -62,12 +62,12 @@
         <translation>Vastaanottavat osoitteet</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun REEX osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your WEYC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun WEYC osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your REEX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun REEX osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
+        <source>These are your WEYC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun WEYC osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,15 +172,15 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>REEX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
-        <translation>REEX sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella REEXien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
+        <source>WEYC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your REEXs from being stolen by malware infecting your computer.</source>
+        <translation>WEYC sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella REEXien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Oletko varma että tahdot salata lompakkosi?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REEX&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WEYC&lt;/b&gt;!</source>
         <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki REEXisi&lt;/b&gt;</translation>
     </message>
     <message>
@@ -565,12 +565,12 @@
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Ydin</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Ydin</translation>
     </message>
     <message>
-        <source>Send coins to a REEX address</source>
-        <translation>Lähetä kolikkoja REEX osoitteeseen</translation>
+        <source>Send coins to a WEYC address</source>
+        <translation>Lähetä kolikkoja WEYC osoitteeseen</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and reex: URIs)</source>
@@ -585,24 +585,24 @@
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About REEX Core</source>
-        <translation>REEX Core &amp;ytimestä</translation>
+        <source>&amp;About WEYC Core</source>
+        <translation>WEYC Core &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about REEX Core</source>
-        <translation>Näytä tietoja REEX Ytimestä</translation>
+        <source>Show information about WEYC Core</source>
+        <translation>Näytä tietoja WEYC Ytimestä</translation>
     </message>
     <message>
-        <source>Modify configuration options for REEX</source>
-        <translation>Muokkaa konfiguraatio vaihtoehtoja REEX:lle</translation>
+        <source>Modify configuration options for WEYC</source>
+        <translation>Muokkaa konfiguraatio vaihtoehtoja WEYC:lle</translation>
     </message>
     <message>
-        <source>Sign messages with your REEX addresses to prove you own them</source>
+        <source>Sign messages with your WEYC addresses to prove you own them</source>
         <translation>Allekirjoita viestejä todistaaksesi, että omistat ne.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified REEX addresses</source>
-        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä REEX osoiteella.</translation>
+        <source>Verify messages to ensure they were signed with specified WEYC addresses</source>
+        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä WEYC osoiteella.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -633,8 +633,8 @@
         <translation>Avaa Masternode konfiguraatiotiedosto</translation>
     </message>
     <message>
-        <source>Open a REEX: URI or payment request</source>
-        <translation>Avaa REEX: URI tai pyydä maksua</translation>
+        <source>Open a WEYC: URI or payment request</source>
+        <translation>Avaa WEYC: URI tai pyydä maksua</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -645,12 +645,12 @@
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the REEX Core help message to get a list with possible REEX command-line options</source>
-        <translation>Näytä REEX Ydin apuviesti saadaksesi lista mahdollisista REEX komentolinja komennoista.</translation>
+        <source>Show the WEYC Core help message to get a list with possible WEYC command-line options</source>
+        <translation>Näytä WEYC Ydin apuviesti saadaksesi lista mahdollisista WEYC komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>REEX Core client</source>
-        <translation>REEX Ydin asiakasohjelma</translation>
+        <source>WEYC Core client</source>
+        <translation>WEYC Ydin asiakasohjelma</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -908,8 +908,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Ydin</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Ydin</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -927,12 +927,12 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to REEX Core.</source>
-        <translation>Tervetuloa REEX Ytimeen.</translation>
+        <source>Welcome to WEYC Core.</source>
+        <translation>Tervetuloa WEYC Ytimeen.</translation>
     </message>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Ydin</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Ydin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1128,32 +1128,32 @@ Please check the address and try again.</source>
         <translation>Valitse yksityisyyden taso.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 REEX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 WEYC</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 REEX</source>
-        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 REEX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 WEYC</source>
+        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 WEYC</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Käytä 16 erillistä masternodea</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 REEX to anonymize 10000 REEX</source>
-        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 REEX anonymoidaksesi 10000 REEX</translation>
+        <source>This option is the quickest and will cost about ~0.025 WEYC to anonymize 10000 WEYC</source>
+        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 WEYC anonymoidaksesi 10000 WEYC</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 REEX to anonymize 10000 REEX</source>
-        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 REEX anonymoidaksesi 10000 REEX</translation>
+        <source>This option is moderately fast and will cost about 0.05 WEYC to anonymize 10000 WEYC</source>
+        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 WEYC anonymoidaksesi 10000 WEYC</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Tämä on hitain ja turvallisin vaihtoehto. Täydesti anonymisoiminen ei maksa mitään.</translation>
     </message>
     <message>
-        <source>0.1 REEX per 10000 REEX you anonymize.</source>
-        <translation>0.1 per 10000 REEX, jotka anonymisoit.</translation>
+        <source>0.1 WEYC per 10000 WEYC you anonymize.</source>
+        <translation>0.1 per 10000 WEYC, jotka anonymisoit.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1202,12 +1202,12 @@ Please check the address and try again.</source>
         <translation>Ekspertti</translation>
     </message>
     <message>
-        <source>Automatically start REEX after logging in to the system.</source>
-        <translation>Automaattisesti käynnistä REEX kun kirjaudut sisään.</translation>
+        <source>Automatically start WEYC after logging in to the system.</source>
+        <translation>Automaattisesti käynnistä WEYC kun kirjaudut sisään.</translation>
     </message>
     <message>
-        <source>&amp;Start REEX on system login</source>
-        <translation>&amp;Aloita REEX järjestelmän kirjautumisessa</translation>
+        <source>&amp;Start WEYC on system login</source>
+        <translation>&amp;Aloita WEYC järjestelmän kirjautumisessa</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1226,12 +1226,12 @@ Please check the address and try again.</source>
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting REEX.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting WEYC.</source>
         <translation>Käyttöliittymän kielen voi säätää täällä. Tämä asetus tulee voimaan uudelleenkäynnistettyäsi lompakon.</translation>
     </message>
     <message>
-        <source>Connect to the REEX network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä REEX verkkoon SOCKS5 proxyn kautta</translation>
+        <source>Connect to the WEYC network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä WEYC verkkoon SOCKS5 proxyn kautta</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1535,8 +1535,8 @@ Please check the address and try again.</source>
         <translation>Lohko ketju</translation>
     </message>
     <message>
-        <source>Open the REEX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa REEX debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
+        <source>Open the WEYC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa WEYC debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -1647,8 +1647,8 @@ Please check the address and try again.</source>
         <translation>Ulos:</translation>
     </message>
     <message>
-        <source>Welcome to the REEX RPC console.</source>
-        <translation>Tervetuloa REEX RPC konsoliin.</translation>
+        <source>Welcome to the WEYC RPC console.</source>
+        <translation>Tervetuloa WEYC RPC konsoliin.</translation>
     </message>
     <message>
         <source>never</source>
@@ -1686,12 +1686,12 @@ Please check the address and try again.</source>
         <translation>Vaihtoehtoinen nimike uudelle vastaanottavalle osoitteelle</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the REEX network.</source>
-        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana REEX verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the WEYC network.</source>
+        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana WEYC verkolle.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the REEX network.</source>
-        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana REEX  verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the WEYC network.</source>
+        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana WEYC  verkolle.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1887,8 +1887,8 @@ Please check the address and try again.</source>
         <translation>Muutos:</translation>
     </message>
     <message>
-        <source>0 REEX</source>
-        <translation>0 REEX</translation>
+        <source>0 WEYC</source>
+        <translation>0 WEYC</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1963,8 +1963,8 @@ Please check the address and try again.</source>
         <translation>Kopioi taksa</translation>
     </message>
     <message>
-        <source>Warning: Invalid REEX address</source>
-        <translation>Varoitus: Virheellinen REEX osoite</translation>
+        <source>Warning: Invalid WEYC address</source>
+        <translation>Varoitus: Virheellinen WEYC osoite</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2014,8 +2014,8 @@ Please check the address and try again.</source>
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The REEX address to send the payment to</source>
-        <translation>REEX osoite johon maksu lähetetään</translation>
+        <source>The WEYC address to send the payment to</source>
+        <translation>WEYC osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2057,8 +2057,8 @@ Please check the address and try again.</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>REEX Core is shutting down...</source>
-        <translation>REEX core sammuu...</translation>
+        <source>WEYC Core is shutting down...</source>
+        <translation>WEYC core sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2076,8 +2076,8 @@ Please check the address and try again.</source>
         <translation>Voit allekirjoittaa viestejä osoitteillasi todistaaksesi, että omistat ne. Ole varovainen ettet allekirjoita mitään kummallista, sillä kalasteluyritykset saattavat yrittää huijata sinut luovuttamaan tietoja. Allekirjoita vain täysin yksityiskohtaisia sanomia, jotka hyväksyt.</translation>
     </message>
     <message>
-        <source>The REEX address to sign the message with</source>
-        <translation>REEX osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The WEYC address to sign the message with</source>
+        <translation>WEYC osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2108,16 +2108,16 @@ Please check the address and try again.</source>
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this REEX address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän REEX osoitteen</translation>
+        <source>Sign the message to prove you own this WEYC address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän WEYC osoitteen</translation>
     </message>
     <message>
-        <source>The REEX address the message was signed with</source>
-        <translation>REEX osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The WEYC address the message was signed with</source>
+        <translation>WEYC osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified REEX address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla REEX osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified WEYC address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla WEYC osoitteella.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2199,8 +2199,8 @@ Please check the address and try again.</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>REEX Core</source>
-        <translation>REEX Ydin</translation>
+        <source>WEYC Core</source>
+        <translation>WEYC Ydin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2215,8 +2215,8 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The REEX Core developers</source>
-        <translation>REEX core kehittäjät</translation>
+        <source>The WEYC Core developers</source>
+        <translation>WEYC core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2568,8 +2568,8 @@ Please check the address and try again.</source>
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of REEX Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version REEX Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of WEYC Core</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version WEYC Coresta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

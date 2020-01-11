@@ -872,7 +872,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
             ui->labelCoinControlChangeLabel->setText("");
         } else if (!addr.IsValid()) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid REEX address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid WEYC address"));
         } else // Valid address
         {
             CPubKey pubkey;
