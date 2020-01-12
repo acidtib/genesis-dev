@@ -54,13 +54,13 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (     0, uint256("0x00000c1b8abb8755561c46ea298cf725c940ca71409f7024bc3ad82fdb1bdc7f"));
+    (     0, uint256("0x00000c52dd075662c8630839a0483c23db0c947c4e47a82a1c72034d4764e5ee"));
 
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1561286923, // * UNIX timestamp of last checkpoint block
-    554438,     // * total number of transactions between genesis and last checkpoint(the tx=... number in the SetBestChain debug.log lines)
-    1440        // * estimated number of transactions per day after checkpoint
+    1578851926, // * UNIX timestamp of last checkpoint block
+    0,     // * total number of transactions between genesis and last checkpoint(the tx=... number in the SetBestChain debug.log lines)
+    0        // * estimated number of transactions per day after checkpoint
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
@@ -116,24 +116,53 @@ public:
         //  nNonce: 474276
         //  Hash: 00000d6274a0459bc63c3b7ad6c03614bed636e2c43e10b466c553d03bb56ecc
         //  hashMerkleRoot: d356f4e8178a28f1ad5f15738db447731b86ca1a9a620ff8358fa607252f2220
-        const char* pszTimestamp = "reecore mainnet nov2018";
+        const char* pszTimestamp = "Iran's sole female Olympic medalist says she's defected January 12, 2020";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CScriptNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         txNew.vout[0].nValue = 0 * COIN;
-        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04f4a8143f86ad8ac63791fbbdb8e0b91a8da88c8c693a95f6c2c13c063ea790f7960b8025a9047a7bc671d5cfe707a2dd2e13b86182e1064a0eea7bf863636363") << OP_CHECKSIG;
+        txNew.vout[0].scriptPubKey = CScript() << ParseHex("0474D1B53C446D56223B89F7C218050C41972A8055ACA763E7269A9637B335271E75FA9D1EFA3ACBFC3AA437F4263BC7CC63A57B97CD1BD901B2F6CBD686DFA156") << OP_CHECKSIG;
+
         genesis.vtx.push_back(txNew);
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1542907235;
+        genesis.nTime = 1578851926;
         genesis.nBits = 0x1e0ffff0;  // 00000ffff0000000000000000000000000000000000000000000000000000000
-        genesis.nNonce = 347336;
+        genesis.nNonce = 39343;
         hashGenesisBlock = genesis.GetHash();
 
-        assert(hashGenesisBlock == uint256("0x00000c1b8abb8755561c46ea298cf725c940ca71409f7024bc3ad82fdb1bdc7f"));
-        assert(genesis.hashMerkleRoot == uint256("0x71db3668e0435a23f1222acfcc186b84699bc1f9da54dcbb3cff6bf04dbc04af"));
+        // if (genesis.GetHash() != hashGenesisBlock) {
+            // printf("Searching for genesis block...\n");
+            // uint256 hashTarget = CBigNum().SetCompact(genesis.nBits).getuint256();
+
+            // uint256 thash;
+            // while (true) {
+            //     thash = genesis.GetHash();
+            //     if (thash <= hashTarget)
+            //         break;
+            //     if ((genesis.nNonce & 0xFFF) == 0) {
+            //         printf("nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+            //     }
+            //     ++genesis.nNonce;
+            //     if (genesis.nNonce == 0) {
+            //         printf("NONCE WRAPPED, incrementing time\n");
+            //         ++genesis.nTime;
+            //     }
+            // }
+            // printf("genesis.nTime = %u \n", genesis.nTime);
+            // printf("genesis.nBits = %u \n", genesis.nBits);
+            // printf("genesis.nNonce = %u \n", genesis.nNonce);
+            // printf("genesis.nVersion = %u \n", genesis.nVersion);
+            // printf("genesis.hashMerkleRoot = %s\n", genesis.BuildMerkleTree().ToString().c_str());
+            // printf("genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
+
+            // exit(0);
+        // }
+
+        assert(hashGenesisBlock == uint256("0x00000458bc197a7c3e8fe11360eb8958e896855e7e38897281a97f6ac285975b"));
+        assert(genesis.hashMerkleRoot == uint256("0xa0e9e4c14caef1fa4942e92ccff3f926e93f093886165ffd2f3d46cff6ca1284"));
 
         // vSeeds.push_back(CDNSSeedData("seeder.reecore.org", "seeder.reecore.org"));  
 
