@@ -3,41 +3,20 @@
 
 What is WeyCash (WEYC)?
 
-WeyCash is a peer-to-peer decentralized digital currency for ordinary people, easy to use and acquire. We’re pushing for blockchain mass adoption through education and charity. A sustainable and scalable solutions in the charity and educational sectors on the Blockchain. WeyCash summarizes the best characteristics of digital currencies, which were issued earlier (Bitcoin, Dash,PIVX), such as: increased security, fast consensus mechanism, and increased decentralization achieved by requiring miners to prove the knowledge of the transaction data. The community has created a coin with faster transaction, more secure, masternode and low transaction fee.
+WeyCash is a peer-to-peer decentralized digital currency for ordinary people, easy to use and acquire. We’re pushing for blockchain mass adoption through Memeification. A sustainable and scalable solution in the content creation sectors on the Blockchain. WeyCash summarizes the best characteristics of digital currencies, which were issued earlier (Bitcoin, Dash, PIVX), such as: increased security, fast consensus mechanism, and increased decentralization achieved by requiring miners to prove the knowledge of the transaction data. The community has created a coin with faster transaction, more secure, masternode and low transaction fee.
 
-WeyCash is not just another cryptocurrency in the market. It has specific use cases in the
-educational and charity sectors
-
-WeyCash is fork of Pivx, improved with some of the following features: 
+WeyCash is a fork of Pivx, improved with some of the following features: 
 
 - DNS hardcoded 
-- Supersecure
 - Consesus by masternode 
-- POS 3.0. fixed
+- POS 3.0
 - Fast transactions featuring guaranteed zero confirmation transaction: Instantsend 
 - Intregated BIP38, multisignature, blockexplorer, wallet repair and multisend functions in wallet
 - Low transaction fee
 
 WeyCash’s Use-cases:
-- Help bloggers to get tip using WEYC. 
-- Providing an online educational resources library for professional courses, writers and readers. 
-- Provide Charity organizations with option to be supported by using WEYC.
-- Convert your WEYC coin to ($) Dollar/ (£) Euro and use it WEYC for coin listing and any node hosting
-
-
-The project is led by 12 members: (Telegram/Discord)
-
-- @Cryptowaker: Team leader
-- @CryptoExtrem: Social manager
-- @saajan4: Communication lead
-- @barjan0x: Communication Support
-- @Wundef: Marketing developer
-- @lanoes: Core developer
-- @ZioFabry: Core developer
-- @GreatDaneGH: Software developer
-- @ennybelly: Blockchain/web developer
-- @Alain#4172: Full-stack Software developer
-- @SeunCrypton#7048: Graphics and Animation
+- Help MEME creators to get tips using WEYC. 
+- Provide an online marketplace for content creators. 
 
 WeyCash Specifications:
 - Coin Name: WeyCash
@@ -45,8 +24,8 @@ WeyCash Specifications:
 - Type: POS + Masternode
 - Block time 60 seconds
 - Block size 3 MB
-- Block Reward 10 WEYC and will be reducing
-- Algorithm Quark (pow period end)
+- Block Reward fluctuates
+- Algorithm Quark (pow first 200 blocks)
 - Transaction confirmation: 16 blocks
 - Min Stake: 6 hours
 - Max Supply: 21 Million
@@ -110,29 +89,12 @@ Masternode Governance:
 # Debian/Ubuntu Linux Daemon Build Instructions
 
 ```
-git clone https://github.com/weycash-coin/Reex.git
-cd Reex
+git clone https://github.com/weycash-project/weycash.git
+cd weycash
 ./autogen.sh
 ./configure --disable-tests
-make -j2 (2 is must be changed for number os Cpus that have VPS)
+make -j2 (2 can changed for number os Cpus that have VPS)
 cd src
 strip weycashd weycash-cli
 ./weycashd -daemon
-```
-
-# WEYC important links
-```
-Website: https://weycash.org
-Whitepaper: https://weycash.org/wp-content/uploads/2019/11/WeyCash_Whitepaper_1.2.0.0.pdf
-Block Explorer :  https://reex.ccore.online or  https://reexexplorer.weycash.org
-Github : https://github.com/weycash-coin/Reex
-Bitcointalk ANN: #msg48756089" rel="noopener noreferrer" target="_blank">https://bitcointalk.org/index.php?topic=5086942.msg48756089#msg48756089
-Telegram-English: https://t.me/ReeCore_official
-Telegram-Announcements: https://t.me/WeyCash_Announcement
-Official Twitter: https://twitter.com/ReeCore_coin
-Facebook: https://www.facebook.com/ReeCoreCoin
-Discord: https://discord.gg/sze9AaV
-Masternode guide: https://github.com/weycash-coin/Reex-MN
-Masternode Monitoring/Statistics: 1. https://mnrank.com/coin/WEYC/ 2. https://masternodes.biz/coindetail.php?c=WEYC
-WeyCash Coin Tracker: https://www.coingecko.com/en/coins/weycash
 ```

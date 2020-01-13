@@ -112,10 +112,6 @@ public:
         nLastPOWBlock = 200;
         nModifierUpdateBlock = 1;
 
-        //  nTime: 1531169926
-        //  nNonce: 474276
-        //  Hash: 00000d6274a0459bc63c3b7ad6c03614bed636e2c43e10b466c553d03bb56ecc
-        //  hashMerkleRoot: d356f4e8178a28f1ad5f15738db447731b86ca1a9a620ff8358fa607252f2220
         const char* pszTimestamp = "Iran's sole female Olympic medalist says she's defected January 12, 2020";
         CMutableTransaction txNew;
         txNew.vin.resize(1);

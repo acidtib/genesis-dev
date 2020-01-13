@@ -1,7 +1,7 @@
-Contributing to weycash Core
+Contributing to WeyCash
 ==================================
 
-The weycash Core project operates an open contributor model where anyone is
+The WeyCash project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -254,7 +254,7 @@ about:
 Release Policy
 --------------
 
-The project leader is the release manager for each weycash Core release.
+The project leader is the release manager for each WeyCash release.
 
 Copyright
 ---------
