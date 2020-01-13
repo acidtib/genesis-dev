@@ -359,17 +359,15 @@ void OverviewPage::SetLinks()
     ui->labelLinks2->setText("Block Explorer:");
     ui->labelLinks3->setText("Discord:");
     ui->labelLinks4->setText("Twitter:");
-    ui->labelLinks5->setText("Facebook:");
-    ui->labelLinks6->setText("Github:");
-    ui->labelLinks7->setText("");
+    ui->labelLinks5->setText("Github:");
+    ui->labelLinks6->setText("");
 
-    ui->labelLinksUrl1->setText("<a href=\"https://reecore.org/\">https://reecore.org</a>");
-    ui->labelLinksUrl2->setText("<a href=\"https://reex.ccore.online\">https://reex.ccore.online</a>");
-    ui->labelLinksUrl3->setText("<a href=\"https://discord.gg/sze9AaV\">https://discord.gg/sze9AaV</a>");
-    ui->labelLinksUrl4->setText("<a href=\"https://twitter.com/ReeCore_coin\">https://twitter.com/ReeCore_coin</a>");
-    ui->labelLinksUrl5->setText("<a href=\"https://www.facebook.com/ReeCoreCoin\">https://www.facebook.com/ReeCoreCoin</a>");
-    ui->labelLinksUrl6->setText("<a href=\"https://github.com/reecore-coin\">https://github.com/reecore-coin</a>");
-    ui->labelLinksUrl7->setText("");
+    ui->labelLinksUrl1->setText("<a href=\"https://weycash.com/\">https://weycash.com</a>");
+    ui->labelLinksUrl2->setText("<a href=\"https://weyexplorer.com\">https://weyexplorer.com</a>");
+    ui->labelLinksUrl3->setText("<a href=\"https://discord.gg/\">https://discord.gg/</a>");
+    ui->labelLinksUrl4->setText("<a href=\"https://twitter.com/weycash\">https://twitter.com/weycash</a>");
+    ui->labelLinksUrl5->setText("<a href=\"https://github.com/weycash-project\">https://github.com/weycash-project</a>");
+    ui->labelLinksUrl6->setText("");
 }
 
 void OverviewPage::updateNewsList()

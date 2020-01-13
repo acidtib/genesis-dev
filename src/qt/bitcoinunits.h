@@ -58,8 +58,8 @@ public:
      */
     enum Unit {
         WEYC,
-        mREEX,
-        uREEX
+        mWEYC,
+        uWEYC
     };
 
     enum SeparatorStyle {

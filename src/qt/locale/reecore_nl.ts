@@ -3806,11 +3806,11 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uREEXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uREEX's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uREEX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uREEXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uWEYC's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uWEYC's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "total at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uREEXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uREEX's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uREEX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uREEXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uWEYC's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uWEYC's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for WEYC transactions than the network can process.</source>

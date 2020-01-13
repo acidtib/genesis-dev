@@ -3485,11 +3485,11 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Özel ücret 1000 uREEX olarak ayarlanmış ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uREEX öder,&lt;br /&gt;"en az" ise 1000 uREEX öder. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
+        <translation>Özel ücret 1000 uWEYC olarak ayarlanmış ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uWEYC öder,&lt;br /&gt;"en az" ise 1000 uWEYC öder. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "total at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Özel ücret 1000 uREEX olarak ayarlanırsa ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uREEX ücreti verilir,&lt;br /&gt;"toplam en az" ise 1000 uREEX ödüyor. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
+        <translation>Özel ücret 1000 uWEYC olarak ayarlanırsa ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uWEYC ücreti verilir,&lt;br /&gt;"toplam en az" ise 1000 uWEYC ödüyor. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for WEYC transactions than the network can process.</source>

@@ -3806,11 +3806,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ako je prilagođena naknada postavljena na 1000 uREEX-ova, a transakcija je samo 250 bajta, tada "po kilobajtu" se plaća samo 250 uREEX-a, dok se "barem" plaća 1000 uREEX-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
+        <translation>Ako je prilagođena naknada postavljena na 1000 uWEYC-ova, a transakcija je samo 250 bajta, tada "po kilobajtu" se plaća samo 250 uWEYC-a, dok se "barem" plaća 1000 uWEYC-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "total at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ako je prilagođena naknada postavljena na 1000 uREEX, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uREEX-ova, a "ukupno barem" plaća 1000 uREEX-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
+        <translation>Ako je prilagođena naknada postavljena na 1000 uWEYC, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uWEYC-ova, a "ukupno barem" plaća 1000 uWEYC-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for WEYC transactions than the network can process.</source>

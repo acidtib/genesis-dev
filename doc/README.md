@@ -1,4 +1,4 @@
-ReeCore
+WeyCash
 =====================
 
 Setup

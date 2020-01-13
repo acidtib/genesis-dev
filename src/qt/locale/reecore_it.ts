@@ -1127,7 +1127,7 @@ MultiSend: %1</translation>
     </message>
     <message>
         <source>Can vary +/- %1 ureex per input.</source>
-        <translation>Può variare di +/- %1 uREEX per input.</translation>
+        <translation>Può variare di +/- %1 uWEYC per input.</translation>
     </message>
     <message>
         <source>(no label)</source>

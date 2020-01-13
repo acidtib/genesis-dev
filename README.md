@@ -1,14 +1,14 @@
 # WEYC
 ![WEYC Logo](https://reex.ccore.online/images/coins_custom/reex_45.png)<br>
 
-What is ReeCore (WEYC)?
+What is WeyCash (WEYC)?
 
-ReeCore is a peer-to-peer decentralized digital currency for ordinary people, easy to use and acquire. We’re pushing for blockchain mass adoption through education and charity. A sustainable and scalable solutions in the charity and educational sectors on the Blockchain. ReeCore summarizes the best characteristics of digital currencies, which were issued earlier (Bitcoin, Dash,PIVX), such as: increased security, fast consensus mechanism, and increased decentralization achieved by requiring miners to prove the knowledge of the transaction data. The community has created a coin with faster transaction, more secure, masternode and low transaction fee.
+WeyCash is a peer-to-peer decentralized digital currency for ordinary people, easy to use and acquire. We’re pushing for blockchain mass adoption through education and charity. A sustainable and scalable solutions in the charity and educational sectors on the Blockchain. WeyCash summarizes the best characteristics of digital currencies, which were issued earlier (Bitcoin, Dash,PIVX), such as: increased security, fast consensus mechanism, and increased decentralization achieved by requiring miners to prove the knowledge of the transaction data. The community has created a coin with faster transaction, more secure, masternode and low transaction fee.
 
-ReeCore is not just another cryptocurrency in the market. It has specific use cases in the
+WeyCash is not just another cryptocurrency in the market. It has specific use cases in the
 educational and charity sectors
 
-ReeCore is fork of Pivx, improved with some of the following features: 
+WeyCash is fork of Pivx, improved with some of the following features: 
 
 - DNS hardcoded 
 - Supersecure
@@ -39,7 +39,7 @@ The project is led by 12 members: (Telegram/Discord)
 - @Alain#4172: Full-stack Software developer
 - @SeunCrypton#7048: Graphics and Animation
 
-ReeCore Specifications:
+WeyCash Specifications:
 - Coin Name: Reecore
 - Ticker: WEYC
 - Type: POS + Masternode
@@ -55,7 +55,7 @@ ReeCore Specifications:
 - Masternode Collateral: 15.000 WEYC
 - Reward: 90% masternode, 10% POS
 
-ReeCore Rewards:
+WeyCash Rewards:
 
 POS Rewards:
 ```
@@ -134,5 +134,5 @@ Facebook: https://www.facebook.com/ReeCoreCoin
 Discord: https://discord.gg/sze9AaV
 Masternode guide: https://github.com/reecore-coin/Reex-MN
 Masternode Monitoring/Statistics: 1. https://mnrank.com/coin/WEYC/ 2. https://masternodes.biz/coindetail.php?c=WEYC
-ReeCore Coin Tracker: https://www.coingecko.com/en/coins/reecore
+WeyCash Coin Tracker: https://www.coingecko.com/en/coins/reecore
 ```

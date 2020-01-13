@@ -3805,11 +3805,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Если пользовательская плата установлена в 1000 uREEXs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uREEXs,&lt;br /&gt;а «по крайней мере» платит 1000 uREEX. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+        <translation>Если пользовательская плата установлена в 1000 uREEXs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uREEXs,&lt;br /&gt;а «по крайней мере» платит 1000 uWEYC. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uREEXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uREEXs in fee,&lt;br /&gt;while "total at least" pays 1000 uREEXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Если пользовательская плата установлена в 1000 uREEXs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uREEXs,&lt;br /&gt;а «по крайней мере» платит 1000 uREEX. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+        <translation>Если пользовательская плата установлена в 1000 uREEXs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uREEXs,&lt;br /&gt;а «по крайней мере» платит 1000 uWEYC. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for WEYC transactions than the network can process.</source>
