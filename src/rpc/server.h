@@ -130,7 +130,7 @@ public:
 };
 
 /**
- * reecore RPC command dispatcher.
+ * weycash RPC command dispatcher.
  */
 class CRPCTable
 {

@@ -17,14 +17,14 @@ take note of this info in txt, later we will need.
 
 In linux, stop daemon:
 ```
-./reecore-cli stop
+./weycash-cli stop
 ```
 now we need modify daemon conf:
 ```
-cd .Reecore
-nano Reecore.conf
+cd .weycash
+nano weycash.conf
 ```
-need add this info in your reecore.conf
+need add this info in your weycash.conf
 ```
 rpcuser=xxxx
 rpcpassword=xxxx

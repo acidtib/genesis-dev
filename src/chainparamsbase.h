@@ -9,8 +9,8 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between reecore-cli and reecored)
- * of a given instance of the reecore system.
+ * CBaseChainParams defines the base parameters (shared between weycash-cli and weycashd)
+ * of a given instance of the weycash system.
  */
 class CBaseChainParams
 {

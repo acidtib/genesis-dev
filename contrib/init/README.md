@@ -1,10 +1,10 @@
 Sample configuration files for:
 
-SystemD: reecored.service
-Upstart: reecored.conf
-OpenRC:  reecored.openrc
-         reecored.openrcconf
-CentOS:  reecored.init
+SystemD: weycashd.service
+Upstart: weycashd.conf
+OpenRC:  weycashd.openrc
+         weycashd.openrcconf
+CentOS:  weycashd.init
 
 have been made available to assist packagers in creating node packages here.
 

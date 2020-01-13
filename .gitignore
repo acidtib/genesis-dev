@@ -7,12 +7,12 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/reecore
-src/reecored
-src/reecore-cli
-src/reecore-tx
-src/test/test_reecore
-src/qt/test/test_reecore-qt
+src/weycash
+src/weycashd
+src/weycash-cli
+src/weycash-tx
+src/test/test_weycash
+src/qt/test/test_weycash-qt
 
 # autoreconf
 Makefile.in
@@ -38,8 +38,8 @@ confdefs.h
 conftest.cpp
 conftest.err
 libtool
-src/config/reecore-config.h
-src/config/reecore-config.h.in
+src/config/weycash-config.h
+src/config/weycash-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -62,7 +62,7 @@ src/qt/test/moc*.cpp
 *.pyc
 *.o
 *.o-*
-.reecore
+.weycash
 *.a
 *.pb.cc
 *.pb.h
@@ -81,13 +81,13 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-reecore-qt
-Reecore-Qt.app
+weycash-qt
+WeyCash-Qt.app
 background.tiff*
 
 # Unit-tests
 Makefile.test
-reecore-qt_test
+weycash-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -103,7 +103,7 @@ build
 #lcov
 *.gcno
 /*.info
-test_reecore.coverage/
+test_weycash.coverage/
 total.coverage/
 coverage_percent.txt
 

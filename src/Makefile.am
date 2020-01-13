@@ -72,15 +72,15 @@ bin_PROGRAMS =
 TESTS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += reecored
+  bin_PROGRAMS += weycashd
 endif
 
 if BUILD_BITCOIN_UTILS
-  bin_PROGRAMS += reecore-cli reecore-tx
+  bin_PROGRAMS += weycash-cli weycash-tx
 endif
 
 .PHONY: FORCE
-# reecore core #
+# weycash core #
 BITCOIN_CORE_H = \
   bignum.h \
   activemasternode.h \
@@ -183,7 +183,7 @@ obj/build.h: FORCE
 	  $(abs_top_srcdir)
 libbitcoin_util_a-clientversion.$(OBJEXT): obj/build.h
 
-# server: shared between reecored and reecore-qt
+# server: shared between weycashd and weycash-qt
 libbitcoin_server_a_CPPFLAGS = $(BITCOIN_INCLUDES) $(MINIUPNPC_CPPFLAGS) $(EVENT_CFLAGS) $(EVENT_PTHREADS_CFLAGS)
 libbitcoin_server_a_SOURCES = \
   addrman.cpp \
@@ -228,7 +228,7 @@ libbitcoin_zmq_a_SOURCES = \
   zmq/zmqpublishnotifier.cpp
 endif
 
-# wallet: shared between reecored and reecore-qt, but only linked
+# wallet: shared between weycashd and weycash-qt, but only linked
 # when wallet enabled
 
 libbitcoin_wallet_a_CFLAGS = -fPIC
@@ -290,7 +290,7 @@ crypto_libbitcoin_crypto_a_SOURCES = \
   crypto/sph_skein.h \
   crypto/sph_types.h
 
-# common: shared between reecored, and reecore-qt and non-server tools
+# common: shared between weycashd, and weycash-qt and non-server tools
 libbitcoin_common_a_CPPFLAGS = $(BITCOIN_INCLUDES)
 libbitcoin_common_a_SOURCES = \
   allocators.cpp \
@@ -348,7 +348,7 @@ libbitcoin_util_a_SOURCES += compat/glibc_compat.cpp
 libbitcoin_util_a_SOURCES += compat/glibcxx_compat.cpp
 endif
 
-# cli: shared between reecore-cli and reecore-qt
+# cli: shared between weycash-cli and weycash-qt
 libbitcoin_cli_a_CPPFLAGS = $(BITCOIN_INCLUDES)
 libbitcoin_cli_a_SOURCES = \
   rpc/client.cpp \
@@ -358,7 +358,7 @@ nodist_libbitcoin_util_a_SOURCES = $(srcdir)/obj/build.h
 #
 
 # bitcoind binary #
-reecored_LDADD = \
+weycashd_LDADD = \
   $(LIBBITCOIN_SERVER) \
   $(LIBBITCOIN_COMMON) \
   $(LIBUNIVALUE) \
@@ -369,26 +369,26 @@ reecored_LDADD = \
   $(LIBSECP256K1)
 
 if ENABLE_ZMQ
-reecored_LDADD += $(LIBBITCOIN_ZMQ) $(ZMQ_LIBS)
+weycashd_LDADD += $(LIBBITCOIN_ZMQ) $(ZMQ_LIBS)
 endif
 
 if ENABLE_WALLET
-reecored_LDADD += libbitcoin_wallet.a
+weycashd_LDADD += libbitcoin_wallet.a
 endif
-reecored_SOURCES = reecored.cpp
+weycashd_SOURCES = weycashd.cpp
 #
 
 if TARGET_WINDOWS
-reecored_SOURCES += reecored-res.rc
+weycashd_SOURCES += weycashd-res.rc
 endif
 
-reecored_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS)
-reecored_CPPFLAGS = $(BITCOIN_INCLUDES)
-reecored_LDFLAGS = $(REEXDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+weycashd_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS)
+weycashd_CPPFLAGS = $(BITCOIN_INCLUDES)
+weycashd_LDFLAGS = $(REEXDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 
-# reecore-cli binary #
-reecore_cli_LDADD = \
+# weycash-cli binary #
+weycash_cli_LDADD = \
   $(LIBBITCOIN_CLI) \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_UTIL) \
@@ -397,14 +397,14 @@ reecore_cli_LDADD = \
   $(CRYPTO_LIBS) \
   $(EVENT_LIBS)
 
-reecore_cli_SOURCES = \
-  reecore-cli.cpp
+weycash_cli_SOURCES = \
+  weycash-cli.cpp
 
-reecore_cli_CPPFLAGS = $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
+weycash_cli_CPPFLAGS = $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
 #
 
-# reecore-tx binary #
-reecore_tx_LDADD = \
+# weycash-tx binary #
+weycash_tx_LDADD = \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UTIL) \
@@ -413,15 +413,15 @@ reecore_tx_LDADD = \
   $(BOOST_LIBS) \
   $(CRYPTO_LIBS)
 
-reecore_tx_SOURCES = reecore-tx.cpp
-reecore_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
+weycash_tx_SOURCES = weycash-tx.cpp
+weycash_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
 #
-reecore_tx_LDFLAGS = $(REEXDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+weycash_tx_LDFLAGS = $(REEXDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-reecore_cli_SOURCES += reecore-cli-res.rc
+weycash_cli_SOURCES += weycash-cli-res.rc
 endif
-reecore_cli_LDFLAGS = $(REEXDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+weycash_cli_LDFLAGS = $(REEXDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if BUILD_BITCOIN_LIBS
 include_HEADERS = script/bitcoinconsensus.h

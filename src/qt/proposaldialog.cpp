@@ -5,7 +5,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #if defined(HAVE_CONFIG_H)
-#include <config/reecore-config.h>
+#include <config/weycash-config.h>
 #endif
 
 #include <fstream>
@@ -67,8 +67,8 @@ ProposalDialog::ProposalDialog(Mode mode, QWidget* parent) : QDialog(parent), ui
     ui->blockEdit->setValidator(new QIntValidator(1, INT_MAX));
 
     ui->addressEdit->setFont(GUIUtil::bitcoinAddressFont());
-    ui->addressEdit->setPlaceholderText(tr("The Reecore public address that will receive the funds"));
-    ui->addressEdit->setToolTip(tr("The Reecore public address that will receive the funds"));
+    ui->addressEdit->setPlaceholderText(tr("The WeyCash public address that will receive the funds"));
+    ui->addressEdit->setToolTip(tr("The WeyCash public address that will receive the funds"));
 
     ui->amountEdit->setFont(GUIUtil::bitcoinAddressFont());
     ui->amountEdit->setPlaceholderText(tr("The amount to be paid per month or cycle"));
@@ -243,7 +243,7 @@ bool ProposalDialog::validateProposal()
     if (nBlockEnd < pindexPrev->nHeight) strError = "Invalid ending block, starting block + (payment_cycle*payments) must be more than current height.";
 
     CBitcoinAddress address(ui->addressEdit->text().toStdString());
-    if (!address.IsValid()) strError = "Invalid Reecore address";
+    if (!address.IsValid()) strError = "Invalid WeyCash address";
 
     if (!strError.empty()) 
     {

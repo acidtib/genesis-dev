@@ -1,4 +1,4 @@
-Source: reecore
+Source: weycash
 Section: utils
 Priority: optional
 Maintainer: Jonas Smedegaard <dr@jones.dk> ***TODO***
@@ -23,14 +23,14 @@ Build-Depends: debhelper,
  libprotobuf-dev, protobuf-compiler
 Standards-Version: 3.9.2
 Homepage: http://www.savebitcoin.io
-Vcs-Git: git://github.com/reecore/reecore.git
-Vcs-Browser: http://github.com/reecore/reecore
+Vcs-Git: git://github.com/weycash/weycash.git
+Vcs-Browser: http://github.com/weycash/weycash
 
-Package: reecored
+Package: weycashd
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
- reecore is a free open source peer-to-peer electronic cash system that
+ weycash is a free open source peer-to-peer electronic cash system that
  is completely decentralized, without the need for a central server or
  trusted parties.  Users hold the crypto keys to their own money and
  transact directly with each other, with the help of a P2P network to
@@ -39,20 +39,20 @@ Description: peer-to-peer network based digital currency - daemon
  Full transaction history is stored locally at each client.  This
  requires 1+ GB of space, slowly growing.
  .
- This package provides the daemon, reecored, and the CLI tool
- reecore-cli to interact with the daemon.
+ This package provides the daemon, weycashd, and the CLI tool
+ weycash-cli to interact with the daemon.
 
-Package: reecore-qt
+Package: weycash-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI
- reecore (WEYC) is a sustainable cryptocurrency modeled after
+ weycash (WEYC) is a sustainable cryptocurrency modeled after
  Satoshi Nakamoto’s vision for Bitcoin. 
  It is a decentralized, peer-to-peer transactional currency designed
  to offer a solution to the problem posed by the exponential increase
  in energy consumed by Bitcoin and other proof-of-work currencies.
  Proof-of-work mining is environmentally unsustainable due to the
- electricity used by high-powered mining hardware. reecore
+ electricity used by high-powered mining hardware. weycash
  utilizes an en- ergy efficient proof-of-stake algorithm, can be
  mined on any computer, and will never require specialized mining
  equipment. The Green Protocol offers a simple solution to
@@ -62,4 +62,4 @@ Description: peer-to-peer network based digital currency - Qt GUI
  Full transaction history is stored locally at each client.  This
  requires 1+ GB of space, slowly growing.
  .
- This package provides reecore-Qt, a GUI for reecore based on Qt.
+ This package provides weycash-Qt, a GUI for weycash based on Qt.

@@ -46,7 +46,7 @@ using namespace boost;
 using namespace std;
 
 #if defined(NDEBUG)
-#error "reecore cannot be compiled without assertions."
+#error "weycash cannot be compiled without assertions."
 #endif
 
 // 6 comes from OPCODE (1) + vch.size() (1) + BIGNUM size (4)
@@ -2023,7 +2023,7 @@ static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck()
 {
-    RenameThread("reecore-scriptch");
+    RenameThread("weycash-scriptch");
     scriptcheckqueue.Thread();
 }
 

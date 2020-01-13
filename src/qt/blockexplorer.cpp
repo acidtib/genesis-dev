@@ -474,8 +474,8 @@ void BlockExplorer::showEvent(QShowEvent*)
         updateNavButtons();
 
         if (!GetBoolArg("-txindex", false)) {
-            QString Warning = tr("Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (reecore.conf).");
-            QMessageBox::warning(this, "reecore Core Blockchain Explorer", Warning, QMessageBox::Ok);
+            QString Warning = tr("Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (weycash.conf).");
+            QMessageBox::warning(this, "weycash Core Blockchain Explorer", Warning, QMessageBox::Ok);
         }
     }
 }

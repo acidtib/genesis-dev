@@ -32,7 +32,7 @@
 #define ICON_OFFSET 16
 #define NUM_ITEMS 7
 
-#define NEWS_URL "https://reecore.org/category/news/feed"
+#define NEWS_URL "https://weycash.org/category/news/feed"
 
 extern CWallet* pwalletMain;
 

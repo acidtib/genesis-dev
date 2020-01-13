@@ -260,10 +260,10 @@ UniValue stop(const UniValue& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop reecore server.");
+            "\nStop weycash server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "reecore server stopping";
+    return "weycash server stopping";
 }
 
 
@@ -345,33 +345,33 @@ static const CRPCCommand vRPCCommands[] =
         {"hidden", "reconsiderblock", &reconsiderblock, true, true, false},
         {"hidden", "setmocktime", &setmocktime, true, false, false},
         {"hidden", "makekeypair", &makekeypair, true, true, false},
-        /* reecore features */
-        {"reecore", "masternode", &masternode, true, true, false},
-        {"reecore", "listmasternodes", &listmasternodes, true, true, false},
-        {"reecore", "getmasternodecount", &getmasternodecount, true, true, false},
-        {"reecore", "masternodeconnect", &masternodeconnect, true, true, false},
-        {"reecore", "masternodecurrent", &masternodecurrent, true, true, false},
-        {"reecore", "masternodedebug", &masternodedebug, true, true, false},
-        {"reecore", "startmasternode", &startmasternode, true, true, false},
-        {"reecore", "createmasternodekey", &createmasternodekey, true, true, false},
-        {"reecore", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
-        {"reecore", "listmasternodeconf", &listmasternodeconf, true, true, false},
-        {"reecore", "getmasternodestatus", &getmasternodestatus, true, true, false},
-        {"reecore", "getmasternodewinners", &getmasternodewinners, true, true, false},
-        {"reecore", "getmasternodescores", &getmasternodescores, true, true, false},
-        {"reecore", "mnbudget", &mnbudget, true, true, false},
-        {"reecore", "preparebudget", &preparebudget, true, true, false},
-        {"reecore", "submitbudget", &submitbudget, true, true, false},
-        {"reecore", "mnbudgetvote", &mnbudgetvote, true, true, false},
-        {"reecore", "getbudgetvotes", &getbudgetvotes, true, true, false},
-        {"reecore", "getnextsuperblock", &getnextsuperblock, true, true, false},
-        {"reecore", "getbudgetprojection", &getbudgetprojection, true, true, false},
-        {"reecore", "getbudgetinfo", &getbudgetinfo, true, true, false},
-        {"reecore", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
-        {"reecore", "mnfinalbudget", &mnfinalbudget, true, true, false},
-        {"reecore", "checkbudgets", &checkbudgets, true, true, false},
-        {"reecore", "mnsync", &mnsync, true, true, false},
-        {"reecore", "spork", &spork, true, true, false},
+        /* weycash features */
+        {"weycash", "masternode", &masternode, true, true, false},
+        {"weycash", "listmasternodes", &listmasternodes, true, true, false},
+        {"weycash", "getmasternodecount", &getmasternodecount, true, true, false},
+        {"weycash", "masternodeconnect", &masternodeconnect, true, true, false},
+        {"weycash", "masternodecurrent", &masternodecurrent, true, true, false},
+        {"weycash", "masternodedebug", &masternodedebug, true, true, false},
+        {"weycash", "startmasternode", &startmasternode, true, true, false},
+        {"weycash", "createmasternodekey", &createmasternodekey, true, true, false},
+        {"weycash", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
+        {"weycash", "listmasternodeconf", &listmasternodeconf, true, true, false},
+        {"weycash", "getmasternodestatus", &getmasternodestatus, true, true, false},
+        {"weycash", "getmasternodewinners", &getmasternodewinners, true, true, false},
+        {"weycash", "getmasternodescores", &getmasternodescores, true, true, false},
+        {"weycash", "mnbudget", &mnbudget, true, true, false},
+        {"weycash", "preparebudget", &preparebudget, true, true, false},
+        {"weycash", "submitbudget", &submitbudget, true, true, false},
+        {"weycash", "mnbudgetvote", &mnbudgetvote, true, true, false},
+        {"weycash", "getbudgetvotes", &getbudgetvotes, true, true, false},
+        {"weycash", "getnextsuperblock", &getnextsuperblock, true, true, false},
+        {"weycash", "getbudgetprojection", &getbudgetprojection, true, true, false},
+        {"weycash", "getbudgetinfo", &getbudgetinfo, true, true, false},
+        {"weycash", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
+        {"weycash", "mnfinalbudget", &mnfinalbudget, true, true, false},
+        {"weycash", "checkbudgets", &checkbudgets, true, true, false},
+        {"weycash", "mnsync", &mnsync, true, true, false},
+        {"weycash", "spork", &spork, true, true, false},
 #ifdef ENABLE_WALLET
 
         /* Wallet */
@@ -1078,7 +1078,7 @@ std::vector<std::string> CRPCTable::listCommands() const
 
 std::string HelpExampleCli(string methodname, string args)
 {
-    return "> reecore-cli " + methodname + " " + args + "\n";
+    return "> weycash-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(string methodname, string args)

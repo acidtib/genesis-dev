@@ -1,6 +1,6 @@
 Mac OS X Build Instructions and Notes
 ====================================
-This guide will show you how to build reecored (headless client) for OSX.
+This guide will show you how to build weycashd (headless client) for OSX.
 
 Notes
 -----
@@ -40,14 +40,14 @@ Instructions: Homebrew
 
         brew install autoconf automake berkeley-db4 libtool boost miniupnpc openssl pkg-config protobuf qt5 libzmq
 
-### Building `reecored`
+### Building `weycashd`
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/reecore/reecore.git
-        cd reecore
+        git clone https://github.com/weycash/weycash.git
+        cd weycash
 
-2.  Build reecored:
+2.  Build weycashd:
 
         ./autogen.sh
         ./configure --with-gui=qt5
@@ -57,7 +57,7 @@ Instructions: Homebrew
 
         make check
 
-4.  (Optional) You can also install reecored to your path:
+4.  (Optional) You can also install weycashd to your path:
 
         make install
 
@@ -69,7 +69,7 @@ Download Qt Creator from http://www.qt.io/download/. Download the "community edi
 1. Make sure you installed everything through homebrew mentioned above
 2. Do a proper ./configure --with-gui=qt5 --enable-debug
 3. In Qt Creator do "New Project" -> Import Project -> Import Existing Project
-4. Enter "reecore-qt" as project name, enter src/qt as location
+4. Enter "weycash-qt" as project name, enter src/qt as location
 5. Leave the file selection as it is
 6. Confirm the "summary page"
 7. In the "Projects" tab select "Manage Kits..."
@@ -79,11 +79,11 @@ Download Qt Creator from http://www.qt.io/download/. Download the "community edi
 
 Creating a release build
 ------------------------
-You can ignore this section if you are building `reecored` for your own use.
+You can ignore this section if you are building `weycashd` for your own use.
 
-reecored/reecore-cli binaries are not included in the reecore-Qt.app bundle.
+weycashd/weycash-cli binaries are not included in the weycash-Qt.app bundle.
 
-If you are building `reecored` or `reecore-qt` for others, your build machine should be set up
+If you are building `weycashd` or `weycash-qt` for others, your build machine should be set up
 as follows for maximum compatibility:
 
 All dependencies should be compiled with these flags:
@@ -92,30 +92,30 @@ All dependencies should be compiled with these flags:
  -arch x86_64
  -isysroot $(xcode-select --print-path)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
 
-Once dependencies are compiled, see release-process.md for how the reecore-Qt.app
+Once dependencies are compiled, see release-process.md for how the weycash-Qt.app
 bundle is packaged and signed to create the .dmg disk image that is distributed.
 
 Running
 -------
 
-It's now available at `./reecored`, provided that you are still in the `src`
+It's now available at `./weycashd`, provided that you are still in the `src`
 directory. We have to first create the RPC configuration file, though.
 
-Run `./reecored` to get the filename where it should be put, or just try these
+Run `./weycashd` to get the filename where it should be put, or just try these
 commands:
 
-    echo -e "rpcuser=reecorerpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/reecore/reecore.conf"
-    chmod 600 "/Users/${USER}/Library/Application Support/reecore/reecore.conf"
+    echo -e "rpcuser=weycashrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/weycash/weycash.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/weycash/weycash.conf"
 
 The next time you run it, it will start downloading the blockchain, but it won't
 output anything while it's doing this. This process may take several hours;
 you can monitor its process by looking at the debug.log file, like this:
 
-    tail -f $HOME/Library/Application\ Support/reecore/debug.log
+    tail -f $HOME/Library/Application\ Support/weycash/debug.log
 
 Other commands:
 -------
 
-    ./reecored -daemon # to start the reecore daemon.
-    ./reecore-cli --help  # for a list of command-line options.
-    ./reecore-cli help    # When the daemon is running, to get a list of RPC commands
+    ./weycashd -daemon # to start the weycash daemon.
+    ./weycash-cli --help  # for a list of command-line options.
+    ./weycash-cli help    # When the daemon is running, to get a list of RPC commands

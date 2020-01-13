@@ -32,7 +32,7 @@ using namespace std;
 
 //////////////////////////////////////////////////////////////////////////////
 //
-// reecoreMiner
+// weycashMiner
 //
 
 //
@@ -430,7 +430,7 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != chainActive.Tip()->GetBlockHash())
-            return error("reecoreMiner : generated block is stale");
+            return error("weycashMiner : generated block is stale");
     }
 
     // Remove key from key pool
@@ -445,7 +445,7 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     // Process this block the same as if we had received it from another node
     CValidationState state;
     if (!ProcessNewBlock(state, NULL, pblock))
-        return error("reecoreMiner : ProcessNewBlock, block not accepted");
+        return error("weycashMiner : ProcessNewBlock, block not accepted");
 
     for (CNode* node : vNodes) {
         node->PushInventory(CInv(MSG_BLOCK, pblock->GetHash()));
@@ -460,9 +460,9 @@ bool fGenerateBitcoins = false;
 
 void BitcoinMiner(CWallet* pwallet, bool fProofOfStake)
 {
-    LogPrintf("ReecoreMiner started (POS=%s)\n", (fProofOfStake ? "true" : "false") );
+    LogPrintf("WeyCash Miner started (POS=%s)\n", (fProofOfStake ? "true" : "false") );
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("reecore-miner");
+    RenameThread("weycash-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);
@@ -545,7 +545,7 @@ void BitcoinMiner(CWallet* pwallet, bool fProofOfStake)
             continue;
         }
 
-        //LogPrintf("Running reecoreMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
+        //LogPrintf("Running weycashMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
         //    ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //

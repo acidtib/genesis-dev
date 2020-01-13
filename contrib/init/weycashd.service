@@ -1,0 +1,26 @@
+[Unit]
+Description=weycash's distributed currency daemon
+After=network.target
+
+[Service]
+User=weycash
+Group=weycash
+
+Type=forking
+PIDFile=/var/lib/weycashd/weycashd.pid
+
+ExecStart=/usr/bin/weycashd -daemon -pid=/var/lib/weycashd/weycashd.pid \
+          -conf=/etc/weycash/weycash.conf -datadir=/var/lib/weycashd
+
+ExecStop=-/usr/bin/weycash-cli -conf=/etc/weycash/weycash.conf \
+         -datadir=/var/lib/weycashd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

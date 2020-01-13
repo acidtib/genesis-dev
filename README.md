@@ -18,7 +18,7 @@ WeyCash is fork of Pivx, improved with some of the following features:
 - Intregated BIP38, multisignature, blockexplorer, wallet repair and multisend functions in wallet
 - Low transaction fee
 
-Reecore’s Use-cases:
+WeyCash’s Use-cases:
 - Help bloggers to get tip using WEYC. 
 - Providing an online educational resources library for professional courses, writers and readers. 
 - Provide Charity organizations with option to be supported by using WEYC.
@@ -40,7 +40,7 @@ The project is led by 12 members: (Telegram/Discord)
 - @SeunCrypton#7048: Graphics and Animation
 
 WeyCash Specifications:
-- Coin Name: Reecore
+- Coin Name: WeyCash
 - Ticker: WEYC
 - Type: POS + Masternode
 - Block time 60 seconds
@@ -110,29 +110,29 @@ Masternode Governance:
 # Debian/Ubuntu Linux Daemon Build Instructions
 
 ```
-git clone https://github.com/reecore-coin/Reex.git
+git clone https://github.com/weycash-coin/Reex.git
 cd Reex
 ./autogen.sh
 ./configure --disable-tests
 make -j2 (2 is must be changed for number os Cpus that have VPS)
 cd src
-strip reecored reecore-cli
-./reecored -daemon
+strip weycashd weycash-cli
+./weycashd -daemon
 ```
 
 # WEYC important links
 ```
-Website: https://reecore.org
-Whitepaper: https://reecore.org/wp-content/uploads/2019/11/Reecore_Whitepaper_1.2.0.0.pdf
-Block Explorer :  https://reex.ccore.online or  https://reexexplorer.reecore.org
-Github : https://github.com/reecore-coin/Reex
+Website: https://weycash.org
+Whitepaper: https://weycash.org/wp-content/uploads/2019/11/WeyCash_Whitepaper_1.2.0.0.pdf
+Block Explorer :  https://reex.ccore.online or  https://reexexplorer.weycash.org
+Github : https://github.com/weycash-coin/Reex
 Bitcointalk ANN: #msg48756089" rel="noopener noreferrer" target="_blank">https://bitcointalk.org/index.php?topic=5086942.msg48756089#msg48756089
 Telegram-English: https://t.me/ReeCore_official
-Telegram-Announcements: https://t.me/Reecore_Announcement
+Telegram-Announcements: https://t.me/WeyCash_Announcement
 Official Twitter: https://twitter.com/ReeCore_coin
 Facebook: https://www.facebook.com/ReeCoreCoin
 Discord: https://discord.gg/sze9AaV
-Masternode guide: https://github.com/reecore-coin/Reex-MN
+Masternode guide: https://github.com/weycash-coin/Reex-MN
 Masternode Monitoring/Statistics: 1. https://mnrank.com/coin/WEYC/ 2. https://masternodes.biz/coindetail.php?c=WEYC
-WeyCash Coin Tracker: https://www.coingecko.com/en/coins/reecore
+WeyCash Coin Tracker: https://www.coingecko.com/en/coins/weycash
 ```
